@@ -1,4 +1,105 @@
+
 # 懒人投资指南
+
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [懒人投资指南](#懒人投资指南)
+	- [0. 开篇](#0-开篇)
+		- [0.1 风险提示](#01-风险提示)
+		- [0.2 版权提示](#02-版权提示)
+		- [0.3 懒人定义](#03-懒人定义)
+		- [0.4 懒人投资的目标：](#04-懒人投资的目标)
+	- [1. 我们为什么要理财投资](#1-我们为什么要理财投资)
+		- [1.1 変富的世界](#11-変富的世界)
+		- [1.2 変富的中国](#12-変富的中国)
+		- [1.3 变老的我们](#13-变老的我们)
+		- [1.4 生活的大山](#14-生活的大山)
+	- [2. 基本定义&宇宙最强法则](#2-基本定义宇宙最强法则)
+		- [2.1 什么是投资](#21-什么是投资)
+	- [2.2 常见投资手段](#22-常见投资手段)
+		- [2.2.1 银行理财](#221-银行理财)
+		- [2.2.2 信托](#222-信托)
+		- [2.2.3 基金](#223-基金)
+			- [公募基金 ≈ Mutual Fund](#公募基金-mutual-fund)
+			- [共同基金的类别](#共同基金的类别)
+		- [2.2.4 股票](#224-股票)
+	- [2.3 复利](#23-复利)
+	- [3. 富人俱乐部](#3-富人俱乐部)
+		- [3.1 富人靠什么发家致富](#31-富人靠什么发家致富)
+		- [3.2 富人怎么投资](#32-富人怎么投资)
+	- [4. 银行理财面面观](#4-银行理财面面观)
+		- [4.1 银行理财引言](#41-银行理财引言)
+		- [4.2 银行理财的基本概念](#42-银行理财的基本概念)
+			- [4.2.1 银行理财的定义](#421-银行理财的定义)
+			- [4.2.1 风险等级](#421-风险等级)
+			- [4.2.3 银行理财产品的形式](#423-银行理财产品的形式)
+		- [4.3 银行把理财的钱投哪儿了？](#43-银行把理财的钱投哪儿了)
+		- [4.4 2018年银行理财产品综述](#44-2018年银行理财产品综述)
+			- [4.4.1 短平快](#441-短平快)
+			- [4.4.2 实际收益率](#442-实际收益率)
+		- [4.5 如何选择银行理财产品](#45-如何选择银行理财产品)
+			- [4.5.1 了解自己的风险承受能力](#451-了解自己的风险承受能力)
+			- [4.5.2 选择靠谱银行](#452-选择靠谱银行)
+			- [4.5.3 参考明星产品](#453-参考明星产品)
+			- [4.5.4 利用银行自身利润数据](#454-利用银行自身利润数据)
+		- [4.6 有哪些要注意的坑](#46-有哪些要注意的坑)
+		- [4.7 结论](#47-结论)
+	- [5. 成为自己的理财顾问](#5-成为自己的理财顾问)
+		- [5.1 风险控制](#51-风险控制)
+		- [5.2 资产配置](#52-资产配置)
+		- [5.3 生命周期组合](#53-生命周期组合)
+		- [5.4 基金 VS 股票](#54-基金-vs-股票)
+		- [5.5 安全指南](#55-安全指南)
+	- [6. 基金，基金，基金](#6-基金基金基金)
+		- [6.1 公募基金发展历史](#61-公募基金发展历史)
+			- [6.1.1 美国公募基金发展史和规模变化](#611-美国公募基金发展史和规模变化)
+			- [6.1.2 中国公募基金历史](#612-中国公募基金历史)
+		- [6.1.3 公募基金行业规模](#613-公募基金行业规模)
+		- [6.1.4 公募基金公司](#614-公募基金公司)
+	- [6.2 监管](#62-监管)
+		- [6.2.1 中国基金监管机构](#621-中国基金监管机构)
+		- [6.2.2 美国基金监管机构](#622-美国基金监管机构)
+		- [6.2.3 中美基金监管资源和任务对比](#623-中美基金监管资源和任务对比)
+	- [6.3 基金的评价，评奖机构](#63-基金的评价评奖机构)
+		- [6.3.1 基金评价机构](#631-基金评价机构)
+		- [6.3.2 基金评奖机构](#632-基金评奖机构)
+		- [6.3.3 基金评级机构评级方法](#633-基金评级机构评级方法)
+	- [6.4 基金公司赚钱的方式](#64-基金公司赚钱的方式)
+	- [6.5 基金公司与基金经理](#65-基金公司与基金经理)
+		- [6.5.1 高流动的基金经理](#651-高流动的基金经理)
+		- [6.5.2 影响基金经理的变量因素](#652-影响基金经理的变量因素)
+		- [6.5.3 中美基金经理对比](#653-中美基金经理对比)
+				- [规模和人数:](#规模和人数)
+				- [年龄:](#年龄)
+				- [在职时间和管理基金规模:](#在职时间和管理基金规模)
+	- [7. 中国互联网基金平台](#7-中国互联网基金平台)
+		- [7.1 概念和特点](#71-概念和特点)
+			- [7.1.1 互联网基金](#711-互联网基金)
+			- [7.1.2 货币基金](#712-货币基金)
+			- [7.1.3 第三方独立基金销售机构](#713-第三方独立基金销售机构)
+		- [7.2 互联网基金发展史](#72-互联网基金发展史)
+			- [7.2.1 发展历史](#721-发展历史)
+			- [7.2.2 差异化发展](#722-差异化发展)
+		- [7.3 互联网基金销售模式说明（公募类）](#73-互联网基金销售模式说明公募类)
+		- [7.4 第三方基金销售平台](#74-第三方基金销售平台)
+			- [7.4.1 概况说明](#741-概况说明)
+			- [7.4.2 三大基金公司分析](#742-三大基金公司分析)
+				- [天天基金](#天天基金)
+				- [蚂蚁财富](#蚂蚁财富)
+				- [好买基金](#好买基金)
+			- [7.4.3 其他平台](#743-其他平台)
+	- [7.5 货币基金概况](#75-货币基金概况)
+			- [7.5.1 货币基金平台](#751-货币基金平台)
+		- [7.6 监管问题](#76-监管问题)
+		- [7.7 基金平台结论](#77-基金平台结论)
+	- [8. 大牛投资家](#8-大牛投资家)
+				- [investopedia 最伟大的投资人](#investopedia-最伟大的投资人)
+	- [9. 参考文献](#9-参考文献)
+		- [书籍](#书籍)
+		- [报告](#报告)
+		- [网页](#网页)
+
+<!-- /TOC -->
 
 ## 0. 开篇
 
@@ -81,7 +182,7 @@
 
 - 全球最富的10%的人口中，中国人占了18%， 仅次于美国人（20%）
 
-  
+
 
 ![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_12.png)
 
@@ -343,7 +444,7 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 5. 价格波动性和风险性。股票在[交易市场](https://wiki.mbalib.com/wiki/%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA)上作为交易对象，同商品一样，有自己的市场行情和市场价格。由于股票价格要受到诸如公司[经营状况](https://wiki.mbalib.com/wiki/%E7%BB%8F%E8%90%A5%E7%8A%B6%E5%86%B5)、[供求关系](https://wiki.mbalib.com/wiki/%E4%BE%9B%E6%B1%82%E5%85%B3%E7%B3%BB)、[银行](https://wiki.mbalib.com/wiki/%E9%93%B6%E8%A1%8C)利率、大众心理等多种因素的影响，其波动有很大的不确定性。正是这种不确定性，有可能使股票投资者遭受损失。价格波动的不确定性越大，[投资风险](https://wiki.mbalib.com/wiki/%E6%8A%95%E8%B5%84%E9%A3%8E%E9%99%A9)也越大。因此，股票是一种高风险的[金融](https://wiki.mbalib.com/wiki/%E9%87%91%E8%9E%8D)[产品](https://wiki.mbalib.com/wiki/%E4%BA%A7%E5%93%81)。
 
-   
+
 
 ## 2.3 复利
 
@@ -404,7 +505,7 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 来自investopedia的定义
 
-> Family offices are private [wealth management](https://www.investopedia.com/terms/w/wealthmanagement.asp) advisory firms that serve ultra-high-[net-worth](https://www.investopedia.com/terms/n/networth.asp) investors. They are different from traditional wealth management shops in that they offer a total outsourced solution to managing the financial and investment side of an affluent individual or family. 
+> Family offices are private [wealth management](https://www.investopedia.com/terms/w/wealthmanagement.asp) advisory firms that serve ultra-high-[net-worth](https://www.investopedia.com/terms/n/networth.asp) investors. They are different from traditional wealth management shops in that they offer a total outsourced solution to managing the financial and investment side of an affluent individual or family.
 
 于是我们可以看到有钱人所处的行业如下：
 
@@ -460,7 +561,7 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 百度百科这样定义 [银行理财产品](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)
 
-> [银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C)理财产品是[商业银行](https://baike.baidu.com/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C/365199)在对潜在[目标客户](https://baike.baidu.com/item/%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7)群分析研究的基础上，[针对](https://baike.baidu.com/item/%E9%92%88%E5%AF%B9)特定目标客户群开发设计并[销售](https://baike.baidu.com/item/%E9%94%80%E5%94%AE/239410)的资金投资和管理计划。在[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81/9711316)这种投资方式中，[银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C/392719)只是接受客户的授权管理资金，投资收益与风险由客户或客户与银行按照约定方式双方承担。 [1-2] 
+> [银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C)理财产品是[商业银行](https://baike.baidu.com/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C/365199)在对潜在[目标客户](https://baike.baidu.com/item/%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7)群分析研究的基础上，[针对](https://baike.baidu.com/item/%E9%92%88%E5%AF%B9)特定目标客户群开发设计并[销售](https://baike.baidu.com/item/%E9%94%80%E5%94%AE/239410)的资金投资和管理计划。在[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81/9711316)这种投资方式中，[银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C/392719)只是接受客户的授权管理资金，投资收益与风险由客户或客户与银行按照约定方式双方承担。 [1-2]
 >
 > [银监会](https://baike.baidu.com/item/%E9%93%B6%E7%9B%91%E4%BC%9A/3520979)出台的《商业银行[个人理财业务](https://baike.baidu.com/item/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2%E4%B8%9A%E5%8A%A1/3031322)管理暂行办法》对于“个人理财业务”的界定是，“商业银行为个人客户提供的财务分析、财务规划、[投资顾问](https://baike.baidu.com/item/%E6%8A%95%E8%B5%84%E9%A1%BE%E9%97%AE/537534)、资产管理等专业化服务活动”。商业银行个人理财业务按照管理运作方式的不同，分为[理财顾问服务](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E9%A1%BE%E9%97%AE%E6%9C%8D%E5%8A%A1/9984847)和综合理财[服务](https://baike.baidu.com/item/%E6%9C%8D%E5%8A%A1/85523)。我们一般所说的“银行[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)”，其实是指其中的[综合](https://baike.baidu.com/item/%E7%BB%BC%E5%90%88)理财[服务](https://baike.baidu.com/item/%E6%9C%8D%E5%8A%A1/85523)。
 
