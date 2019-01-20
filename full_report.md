@@ -6,7 +6,11 @@
 
 
 
-### 0.2 懒人定义
+### 0.2 版权提示
+
+
+
+### 0.3 懒人定义
 
 我们所说的“懒人”是普通人：
 
@@ -22,7 +26,7 @@
 
 
 
-### 0.3 懒人投资的目标：
+### 0.4 懒人投资的目标：
 
 构建投资组合
 
@@ -1275,7 +1279,7 @@ PCAOB注册为公司，不以营利为目的，受美国证监会监督，经费
 
 
 
-## 8 大牛投资家
+## 8. 大牛投资家
 
 wiki>投资者>投资者列表，列出了著名的投资家，其中国外几乎全部直接和基金相关。
 
@@ -1323,12 +1327,326 @@ wiki>投资者>投资者列表，列出了著名的投资家，其中国外几�
 
 
 
+## 9. 参考文献
+
+### 书籍
+
+- 《共同基金常识 》
+- 《钱：7步创造终身收入》
+- 《好好赚钱 》
+- 《穷爸爸富爸爸》
+- 《蓝筹孩子》
+- 《穷查理宝典》
+- 《彼得林奇教你理财》
+- 《财富自由之路》
+- 《小狗钱钱》
+- 《有钱人和你想的不一样》
+- 《邻家的百万富翁》
+
+- 《聪明的投资者》
+- 《重新定义理财顾问》
+- 《7分钟理财》
+- 《中国式财富管理》
+- 《富人的逻辑》
+- 《The global economy as you never seen it》
+- 《约翰.聂夫的成功投资》
+- [互联网金融:刘进一](https://book.douban.com/subject/30147268/)
+- [风吹江南](https://book.douban.com/subject/26429564/)
+- [互联网金融红利](https://book.douban.com/subject/26949148/)
+- [支付战争](https://book.douban.com/subject/26324497/)
+- [超简单！一学就懂的互联网金融](https://book.douban.com/subject/26394558/)
+- [互联网金融法律与风险控制](https://book.douban.com/subject/25908256/)
 
 
 
-# 参考文献
+### 报告
 
-我最后会爬一下所有的issue把参考文献汇总
+[2015中国互联网基金行业研究报告简版.pdf](https://github.com/bchen4/lazy_investment/files/2736468/2015.pdf)
+
+[公募基金超过自身基准超额收益率归因-清华大学金融研究院.pdf](https://github.com/bchen4/lazy_investment/files/2736481/-.pdf)
+
+[美国工具化产品发展趋势-海通证券.pdf](https://github.com/bchen4/lazy_investment/files/2736485/-.pdf)
+
+[从数据来看中国内地与香港公募基金行业（上）：GDP和养老金背后.pdf](https://github.com/bchen4/lazy_investment/files/2736478/GDP.pdf)
+
+[2017年度美国公募基金业发展报告.pdf](https://github.com/bchen4/lazy_investment/files/2736475/2017.pdf)
+
+[晨星中国基金系列指数编制报告.pdf](https://github.com/bchen4/lazy_investment/files/2736473/default.pdf)
+
+[花旗银行2019投资指南](https://www.privatebank.citibank.com/ivc/docs/Outlook2019_Findings_Opportunities_CHS.pdf)
+
+[中国银行2019全球金融展望](http://www.199it.com/archives/815348.html)
+
+[中国理财网2018年上半年银行理财能力报告](https://www.chinawealth.com.cn/zzlc/xwdt/xwzx/20181116/2761867.shtml)
+
+[基金市场2019年年度策略报告 - 保持适当权益仓位 优选稳健均衡基金.pdf](https://github.com/bchen4/lazy_investment/files/2749596/2019.-.pdf)
+
+[晨星中国2018年度基金奖 ](http://www.cn.morningstar.com/article/AR00008776)
+
+[晨星Fund Family150 2018年第二季度报告及数据库]([FundFamily150_2018_Q2.pdf](https://github.com/bchen4/lazy_investment/files/2736491/FundFamily150_2018_Q2.pdf))
+
+[SRYH_20171201_中美公募基金对比分析.pdf](https://github.com/bchen4/lazy_investment/files/2748443/SRYH_20171201_.pdf)
+
+[中国基金业金牛奖评选信息披露(2017).pdf](https://github.com/bchen4/lazy_investment/files/2744786/2017.pdf)
+
+[Private Banking and Wealth Management Survey 2018: Global Results](<https://www.euromoney.com/article/b16m32n85z9l85/private-banking-and-wealth-management-survey-2018-global-results#Best%20Overall?copyrightInfo=true>)
+
+[GFO家族财富管理报告](https://github.com/bchen4/lazy_investment/files/2747981/gfo-report-2018-pdf-for-download-final.pdf)
+
+[亿万富翁报告]([ubs-pwc-billionaires-insights-2018.pdf](https://github.com/bchen4/lazy_investment/files/2747978/ubs-pwc-billionaires-insights-2018.pdf))
+
+[JP Morgan财富管理和资产配置趋势]([1320744602085.pdf](https://github.com/bchen4/lazy_investment/files/2747987/1320744602085.pdf))
+
+[瑞士信贷 Credit Suisse每年发布一次全球财富管理报告](<https://www.credit-suisse.com/media/assets/private-banking/docs/uk/global-wealth-report-2018.pdf>)
+
+[凯捷咨询公司Capgemini发布的《世界财富报告》](<https://www.capgemini.com/ch-de/wp-content/uploads/sites/26/2018/06/Capgemini-World-Wealth-Report-19.pdf>)
+
+[凯捷咨询公司Capgemini财富管理新趋势]([wealth-managment-trends-2018.pdf](https://github.com/bchen4/lazy_investment/files/2747994/wealth-managment-trends-2018.pdf))
+
+[胡润财富理财规划师报告2018-201804121157368362097.pdf](https://github.com/bchen4/lazy_investment/files/2748401/2018-201804121157368362097.pdf)
+
+[china bank wealth management-中国银行业理财市场报告.pdf](https://github.com/bchen4/lazy_investment/files/2748394/china.bank.wealth.management-.pdf)
+
+[中国理财师白皮书](http://res.hurun.net/Upload/file/20180412/201804121157368362097.pdf)
+
+[2017年中国财富管理行业研究报告-投中研究院.pdf](https://github.com/bchen4/lazy_investment/files/2736482/2017.-.pdf)
+
+[2018年度基金公司规模排行榜发布](https://www.sohu.com/a/285910569_99992453)
+
+[2017年度美国公募基金业发展报告.pdf](https://github.com/bchen4/lazy_investment/files/2752922/2017.pdf)
+
+[2018_investment factbook-ICI.pdf](https://github.com/bchen4/lazy_investment/files/2752924/2018_investment.factbook-ICI.pdf)
+
+[清华大学国家金融研究院--2014公募基金规模研究.pdf](https://github.com/bchen4/bench_investment/files/2759941/--2014.pdf)
+
+[2018美国基金业年鉴-数据图表简版](http://fund.jrj.com.cn/2018/05/15102724540756.shtml)
+
+[花旗银行2019年展望报告](https://www.privatebank.citibank.com/outlook.html)
+
+[2018银行理财收益排行](http://finance.eastmoney.com/a/201901101024209892.html)
+
+[中国银行业理财市场报告](https://www.chinawealth.com.cn/resource/830/846/863/51198/52005/2150127/15184294380932125823274.pdf)
+
+[金融机构事业部研究报告](http://www.zuoyou.com/zygw/asset/mxupload/up0687504001471427459.pdf)
+
+[福布斯2018富豪榜](https://www.forbes.com/billionaires/#76e74ee251c7)
+
+[wells fargo 2017年的财报](https://www08.wellsfargomedia.com/assets/pdf/about/investor-relations/presentations/2018/wealth-investment-management-presentation.pdf)
+
+[中国生育报告2019（上）](http://finance.sina.com.cn/zl/2019-01-02/zl-ihqfskcn3238686.shtml)
+
+[中国生育报告2019（下）](http://finance.sina.com.cn/china/gncj/2019-01-02/doc-ihqfskcn3501398.shtml)
 
 
 
+### 网页
+
+[百度词条：基金监管机构](https://baike.baidu.com/item/%E5%9F%BA%E9%87%91%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84)
+
+[中国证监会官网](http://www.csrc.gov.cn/pub/newsite/)
+
+[证券业协会](http://www.sac.net.cn/)
+
+[中国证券投资基金业协会 Asset Management Association of China](http://www.amac.org.cn/)
+
+[中华人民共和国证券投资基金法](http://www.csrc.gov.cn/pub/newsite/flb/flfg/flxzsf/201312/t20131205_239326.html)
+
+[中国证券报·中国基金业金牛奖](http://www.cs.com.cn/jnj/jnjj/)
+
+[上海证券报·“金基金”奖](http://meeting.cnstock.com/jjj)
+
+[证券时报“中国基金业明星基金奖”评奖方法 - 中国证券投资基金业协会](https://github.com/bchen4/bench_investment/issues/www.amac.org.cn/upload/jjpj/xxpl/1357646794233.doc)
+
+[东方财富网·基金计算器](http://data.eastmoney.com/money/calc/FundCalcDTSY.html)
+
+[好买基金网·基金计算器](https://www.howbuy.com/fundtool/calfundaip.htm)
+
+[FT中国通胀文章](http://www.ftchinese.com/story/001080931?full=y&from=groupmessage&isappinstalled=0#ccode=2G188002)
+
+[微笑曲线](https://en.wikipedia.org/wiki/Smiling_curve)
+
+[investopedia_investment](https://www.investopedia.com/terms/i/investment.asp)
+
+[信托的特征知乎](https://www.zhihu.com/question/24655418/answer/229418172)
+
+[信托的定义](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98)
+
+[信托理财定义](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98%E7%90%86%E8%B4%A2)
+
+[股票](https://wiki.mbalib.com/wiki/%E8%82%A1%E7%A5%A8)
+
+[复利的计算](https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9)
+
+[复利的通俗计算](https://www.rong360.com/gl/2017/11/29/146387.html)
+
+[中美基金业的几组数据对比](http://cn.morningstar.com/article/AR00002629)
+
+[基金经理的年龄](http://www.nbd.com.cn/articles/2017-02-20/1077482.html)
+
+[中国证券投资基金业协会](http://www.amac.org.cn/tjsj/xysj/jjgssj/393733.shtml)
+
+[基金管理机构公募基金月均规模前20名（2017年三季度）](http://www.amac.org.cn/tjsj/xysj/jjgssj/392541.shtml)
+
+[中国证券投资基金业协会信息公示](http://gs.amac.org.cn/)
+
+[证券公司资管产品目录](http://gs.amac.org.cn/amac-infodisc/res/pof/securities/index.html)
+
+[基金从业人员资格信息公示](http://person.amac.org.cn/pages/registration/amac-publicity-report.html)
+
+[中美基金经理对比](http://finance.sina.com.cn/money/fund/jjzl/2016-01-27/doc-ifxnuvxh5207106.shtml)
+
+[首批养老目标基金获批 长期资金入市可期](http://stock.cnstock.com/stock/smk_jjdx/201808/4255355.htm)
+
+[一文读懂终于面世的养老目标基金](https://www.guancha.cn/economy/2018_08_07_467239.shtml)
+
+[聊聊目标日期基金与目标风险基金不同与相同](http://fund.jrj.com.cn/2018/03/26132524298649.shtml)
+
+[wiki:美国国债](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%82%B5)
+
+[知乎:美国国债](https://www.zhihu.com/topic/19633976/intro)
+
+[美国财政部 : 国债收益率曲线利率](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)
+
+[宋鸿兵：联储加息招致金融风暴，三项指标为你赢得24小时逃命时间](http://www.sohu.com/a/285371282_636860)
+
+[美债收益率曲线倒挂，衰退还有多远？](https://zhuanlan.zhihu.com/p/51583296)
+
+[美债收益率曲线11年来首现倒挂 意味着什么？](https://wallstreetcn.com/articles/3448141)
+
+[美国经济衰退概率和美债利率下行极限探讨](https://wallstreetcn.com/articles/3466753)
+
+[Wind, iFind, Choice 三个数据终端哪个最强大？或各有什么强项？](https://www.zhihu.com/question/33665825)
+
+[东方财富Choice数据官网](http://choice.eastmoney.com/)
+
+[苹果官网--东方财富信息股份有限公司产品目录](https://itunes.apple.com/cn/developer/%E4%B8%9C%E6%96%B9%E8%B4%A2%E5%AF%8C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id423525689?mt=8)
+
+[苹果官网--WIND软件](https://itunes.apple.com/cn/app/wind%E9%87%91%E8%9E%8D%E7%BB%88%E7%AB%AF-%E6%9C%BA%E6%9E%84%E4%B8%93%E7%94%A8/id1123416056?mt=12)
+
+[公募基金公司TOP20基础信息.xlsx](https://github.com/bchen4/lazy_investment/files/2751629/TOP20.xlsx)
+
+[基金复兴纲要](http://fund.eastmoney.com/news/1596,20111021170812648_0.html)
+
+[中国第一批基金的诞生：笼罩在索罗斯的阴影下](http://finance.sina.com.cn/money/fund/jjyj/2016-02-10/doc-ifxpfhzq2699063.shtml)
+
+[公募基金行业发展转型](http://finance.sina.com.cn/money/roll/2017-03-20/doc-ifycnpiu9162153.shtml)
+
+[中国公募基金规模数据表.xlsx](https://github.com/bchen4/bench_investment/files/2759938/default.xlsx)
+
+[基金监管机构](https://wiki.mbalib.com/wiki/%E5%9F%BA%E9%87%91%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84)
+
+[美国三大证券监管机构2013年度报告的分析、比较和借鉴](http://www.csrc.gov.cn/pub/newsite/yjzx/yjbg/201406/t20140630_257028.html)
+
+[百度百科：美国金融业监管局 FINRA](https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E9%87%91%E8%9E%8D%E4%B8%9A%E7%9B%91%E7%AE%A1%E5%B1%80)
+
+[百度百科：美国公众公司会计监督委员会 PCAOB](https://baike.baidu.com/item/PCAOB)
+
+[美国投资公司协会简介](http://www.amac.org.cn/qqsy/xhzy/382645.shtml)
+
+[基金业发展大趋势！美国这样走 对中国公募基金有何启示？](http://fund.eastmoney.com/a/20181024969514881.html)
+
+[基金教父约翰博格：美国共同基金60年的巨变](http://fund.jrj.com.cn/2018/01/12070723934363.shtml)
+
+[基金教父约翰博格：美国共同基金60年的巨变 (英文版)](<https://www.cfapubs.org/doi/pdf/10.2469/faj.v61.n1.2678>)
+
+[美国共同基金规模数据表.xlsx](https://github.com/bchen4/bench_investment/files/2759920/default.xlsx)
+
+[银行理财产品](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)
+
+[搏弈睿选数据](http://www.sohu.com/a/214688672_556378)
+
+[云掌财经知乎回答](https://www.zhihu.com/question/20803106/answer/162020968)
+
+[开放式和封闭式产品](https://www.tuandai.com/article/detail_19310.html)
+
+[金牛理财关于净值型产品的介绍](http://www.jnlc.com/bank2018/0615210548.shtml)
+
+[从基金公司组织架构聊聊基金经理为何如此重要？](http://fund.jrj.com.cn/2017/08/16101222946350.shtml)
+
+[易方达基金：组织架构](http://www.efunds.com.cn/html/menu/8.htm)
+[博时基金：组织架构](http://capital.bosera.com/column/index.do?classid=00020002000200010005)
+
+[华夏基金：投资研究部](http://www.chinaamc.com/guanyu/touzi/index.shtml)
+
+[基金业“小主”突围术：事业部改革活力再造](http://www.amac.org.cn/cms/article/preview?ID=387593)
+
+[基金事业部试水三年有些尴尬 私募式提成并非灵丹妙药](http://fund.eastmoney.com/news/1590,20170405726176942.html)
+
+[美国财政部网站](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield)
+
+[美国银行官网](https://www.bankofamerica.com/planning/compareservices.go)
+
+[wiki:有效市场假说](https://wiki.mbalib.com/wiki/%E6%9C%89%E6%95%88%E5%B8%82%E5%9C%BA%E5%81%87%E8%AF%B4)
+
+[知乎：效率市场假说](https://zh.wikipedia.org/wiki/%E6%95%88%E7%8E%87%E5%B8%82%E5%A0%B4%E5%81%87%E8%AA%AA)
+
+[百度：有效市场假说](https://baike.baidu.com/item/%E6%9C%89%E6%95%88%E5%B8%82%E5%9C%BA%E5%81%87%E8%AF%B4)
+
+[wiki:分形市场假说](https://wiki.mbalib.com/wiki/%E5%88%86%E5%BD%A2%E5%B8%82%E5%9C%BA%E5%81%87%E8%AF%B4)
+
+[股票市场中的分形市场是什么？什么是分形市场](http://stock.10jqka.com.cn/zhishi/20160108/c587058551.shtml)
+
+[基金评级大PK，盲目迷信不如作为工具使用 ](http://www.sohu.com/a/162897209_544821)
+
+[百度百科：理柏公司](https://baike.baidu.com/item/%E7%90%86%E6%9F%8F%E5%85%AC%E5%8F%B8)
+[wiki: 理柏公司](https://wiki.mbalib.com/wiki/%E7%90%86%E6%9F%8F%E5%85%AC%E5%8F%B8)
+
+[晨星方法论](http://cn.morningstar.com/methodology)
+
+[中国银河证券基金评级的原则与方法](https://github.com/bchen4/bench_investment/issues/zxbj.finchina.com/fcasp/fund/morningstar/pdf/pdf.asp?f=2)
+
+[海通证券基金产品评级方法](https://www.htsec.com/ChannelHome/1513017/2595557.shtml)
+
+[济安金信基金风险评价解决方案(2017)](https://www.swhysc.com/download/attachment/201709/15/194.pdf)
+
+[中国证券协会](http://www.sac.net.cn/hysj/zqgsyjpm/201811/t20181114_137039.html)
+
+[东方财富数据](http://choice.eastmoney.com/)
+
+[企查查](https://www.qichacha.com/)
+
+[中国证监会](http://www.csrc.gov.cn/)
+
+[金融界基金](http://fund.jrj.com.cn/jg/xsjg/zqgs.shtml)
+
+[天天基金](https://www.1234567.com.cn/)
+
+[好买基金](https://www.ehowbuy.com/login/login.htm)
+
+[蚂蚁财富](https://www.antfortune.com/)
+
+[盈米基金](https://www.yingmi.cn/)
+
+[互联网基金产品报告：平均年化收益率5.07%](http://money.163.com/14/0319/07/9NMCFBJ900251LDV.html)
+
+[中国基金报](http://press.chnfund.com/paper/zgjjb/html/epaper/index/index.htm)
+
+[MBALib](https://wiki.mbalib.com/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E5%9F%BA%E9%87%91)
+
+[互联网基金销售告别无监管时代](http://www.xqfunds.com/info.dohscontentid=114295.htm)
+
+[新浪基金宝](http://finance.sina.com.cn/fund/box/)
+
+[互联网基金销售有哪些法律法规，互联网基金销售又有哪些新趋势](http://www.fabao365.com/jinrongzhengquan/151762/)
+
+[华夏时报网](http://www.chinatimes.net.cn/article/73811.html)
+
+[关于进一步规范货币市场基金互联网销售、赎回相关服务的指导意见](http://www.csrc.gov.cn/pub/zjhpublic/zjh/201806/P020180601498800000970.pdf)
+
+[基金销售市场竞争激烈，第三方机构能否“搅局”银行？](http://finance.sina.com.cn/money/fund/fundzmt/2018-09-03/doc-ihiqtcan6758331.shtml)
+
+[腾讯入局，互联网巨头基金销售大战升级](https://36kr.com/p/5115076.html)
+
+[代销牌照稀缺 第三方基金销售机构迅猛崛起](http://www.xinhuanet.com/money/2018-11/15/c_129994755.htm)
+
+[东方财富拿下公募牌照！第三方基金销售市场要巨变了？](http://www.nbd.com.cn/articles/2018-10-09/1261208.html)
+
+[第三方基金销售平台](http://baike.jinqiao80.com/jijin/20708.html)
+
+[互联网基金销售平台的专业服务还应强化](http://finance.ce.cn/rolling/201512/14/t20151214_7529201.shtml)
+
+[中场沉寂之后：互联网基金剑指“千人千面”](http://funds.hexun.com/2017-08-04/190314172.html)
+
+[互联网基金销售市场规模达数万亿 阿里、腾讯等加速布局](http://www.chinatimes.net.cn/article/73811.html)
+
+[公开募集基金销售机构名录](http://www.csrc.gov.cn/zjhpublic/G00306205/201509/t20150924_284306.htm)
