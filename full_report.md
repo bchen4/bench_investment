@@ -6,7 +6,11 @@
 
 
 
-### 0.2 懒人定义
+### 0.2 版权提示
+
+
+
+### 0.3 懒人定义
 
 我们所说的“懒人”是普通人：
 
@@ -22,7 +26,7 @@
 
 
 
-### 0.3 懒人投资的目标：
+### 0.4 懒人投资的目标：
 
 构建投资组合
 
@@ -39,13 +43,113 @@
 
 ## 1. 我们为什么要理财投资
 
-### 1.1 世界在变富
+### 1.1 変富的世界
+
+从[中国富人报告](https://www.sifma.org/resources/general/new-visionaries-and-the-chinese-century-billionaires-insights-2018/)中得到全球富人增长率。
+
+![fig7_rich](https://github.com/bchen4/images/raw/master/omc_ia/chinese_billion_fig_7.png)
+
+报告中指出整个2017年，全球亿万富翁（资产十亿美金）的总财产从1.4万亿美元增加到8.9万亿。（[福布斯2018富豪榜](https://www.forbes.com/billionaires/#76e74ee251c7)的数据是9.1万亿）。2017年新晋332名亿万富翁中，199白手起家，其中89位来自中国。
 
 
 
+**MSCI ACWI **
+
+> MSCI国家指数”由[摩根士丹利](https://baike.baidu.com/item/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9)资本国际公司（MSCI）收集每个上市公司的[股价](https://baike.baidu.com/item/%E8%82%A1%E4%BB%B7/9079155)、发行量、[大股东](https://baike.baidu.com/item/%E5%A4%A7%E8%82%A1%E4%B8%9C)持有量、[自由流通量](https://baike.baidu.com/item/%E8%87%AA%E7%94%B1%E6%B5%81%E9%80%9A%E9%87%8F/549166)、每月交易量等数据，并将上市公司按全球行业分类标准(GICS)进行分类，在每一个行业以一定的标准选取60%[市值](https://baike.baidu.com/item/%E5%B8%82%E5%80%BC/3694784)的股票作为[成份股](https://baike.baidu.com/item/%E6%88%90%E4%BB%BD%E8%82%A1/9734053)，选取标准包括规模（市值）、长期短期交易量、[交叉持股](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E6%8C%81%E8%82%A1/6881459)情况和[流通股](https://baike.baidu.com/item/%E6%B5%81%E9%80%9A%E8%82%A1/8333337)数量。由于[摩根士丹利](https://baike.baidu.com/item/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9)资本国际公司先划分[行业](https://baike.baidu.com/item/%E8%A1%8C%E4%B8%9A/2063999)，再从行业中选择股票，这样保证了指数组合中各行业都有相对固定比例的股票，使得指数具有较强的行业代表性。
+
+解释来自[百度百科MSCI世界指数](https://baike.baidu.com/item/MSCI%E5%9B%BD%E5%AE%B6%E6%8C%87%E6%95%B0), 交叉验证：[维基百科MSCI world](https://en.wikipedia.org/wiki/MSCI_World)
 
 
-### 1.2 我们在变老
+
+### 1.2 変富的中国
+
+跟2017年相比，中国2018年的GDP增加了4.6% （国家统计局数据交叉验证），成人财富也增加了4%。高于世界水平。
+
+![fig9](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_9.png)
+
+
+
+而中国人成人财富中位数，从2017年的2170美元以平均年化率7%的增加率一路增加到2018年的16330 美元。
+
+![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_13.png)
+
+
+
+目前在全球范围内，中国人的财富分布有如下特征：
+
+- 70-90 百分位数中，中国占了一半。 总体来说大部分中国人在世界范围内属于上中产。（北美和欧洲大部分人口都挤在top10）
+
+- 全球最富的10%的人口中，中国人占了18%， 仅次于美国人（20%）
+
+  
+
+![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_12.png)
+
+
+
+### 1.3 变老的我们
+
+随着医疗水平和生活水平的提高，我们的平均寿命在延长：
+
+- 2013年，北京户籍人口期望寿命为81.35岁，男性79.35岁，女性83.42岁，过去10年间，北京人的人口平均期望寿命由2003年的79.62岁，增长至2012年的81.35岁，目前已同世界高收入国家水平相当。
+- 2017年，上海户籍人口平均期望寿命达83.37岁，男性80.98岁， 女性85.85岁
+- 2017年我国居民人均预期寿命达76.7岁
+
+
+
+与此同时，生育率却显著下降，人口老龄化讲是无法避开的话题。
+
+
+
+![old_2](https://wpimg.wallstcn.com/bc2a5630-85a9-4791-8286-db004a3a1d6d.jpg)
+
+
+
+![old_1](https://wpimg.wallstcn.com/5a2d27a6-4b73-4dc1-9893-13df17371365.jpg)
+
+
+
+### 1.4 生活的大山
+
+**住房**
+
+**2004-2017年房贷收入比从17%增至44%**
+
+> 从以房贷为主的居民债务数据看，2004-2017年中国个人购房贷款余额从1.6万亿元增至21.9万亿元，增长13.7倍，占居民贷款余额的比例大致在50%以上，2017年为54%。房贷收入比（个人购房贷款余额/可支配收入）从17%增至44%，带动住户部门债务收入比（居民债务余额/可支配收入）从29%增至80%。
+
+![old_4](http://n.sinaimg.cn/finance/crawl/126/w550h376/20190102/rLzg-hqzxptn3312383.jpg)
+
+
+
+**教育**
+
+**教育成本明显攀升，特别是公立幼儿园供给严重不足，1997-2017年中国公立幼儿园在读人数比例从95%降至44%。**
+
+![old_5](http://n.sinaimg.cn/finance/crawl/122/w550h372/20190102/EMmR-hqzxptn3312435.jpg)
+
+
+
+**医疗**
+
+> 2004-2017年，中国居民平均到医疗机构诊疗人次从3.07人次上升至5.88人次，住院率从5.1%升至17.6%。根据《2017年我国卫生健康事业发展统计公报》，医院人均门诊费用为257元，人均住院费用8891元，日均住院费用959元；其中公立三级医院上述费用分别为306、13088、1334元。
+>
+> 　　在此影响下，居民医疗费用快速增长，在消费性支出的比重持续上升。1995-2017年全国居民人均医疗保健支出从62元升至1451元，上涨22.4倍，远高于人均可支配收入9.2倍、人均消费性支出8.4倍的涨幅。全国居民人均医疗保健支出占消费性支出的比重从3.2%上升至7.9%，其中城市居民从3.1%升至7.3%，农村居民从3.2%升至9.7%。
+
+![old_6](http://n.sinaimg.cn/finance/crawl/121/w550h371/20190102/Pol5-hqzxptn3312475.jpg)
+
+
+
+ **养老**
+
+国家也付不起了。
+
+> 从城镇职工基本养老保险基金看，中国累计结余可支付时间从2012年的18.5个月逐渐下降至2017年的13.8个月，养老金抚养比（在职人数/退休人数）降至2.65。并且，城镇职工基本养老保险基金的区域差异很大，2017年有6省养老金入不敷出，有15个省的累计结余可支付时间在10个月以下，有7个省的养老金抚养比已降至2以下。其中，黑龙江养老保险基金从2013年开始持续“入不敷出”， 2016年累计结余转负。
+
+
+
+![old_3](http://n.sinaimg.cn/finance/crawl/122/w550h372/20190102/WfSS-hqzxptn3312470.jpg)
+
+
 
 
 
@@ -55,26 +159,7 @@
 
 ### 2.1 什么是投资
 
-#### 关键词列表
-
-| 层级 | 英文                                                         | 中文                                                         |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 一级 | fortune, wealth, invest/investment，finance                  | 财富、投资、金融                                             |
-| 二级 | Investing, Investor，Financial Planning, Wealth Management   | 投资者、财富管理、理财产品、投机、赌博                       |
-| 三级 | financial analysis, investment strategy, bond/fixed income,mutual fund,stocks, ETFs, Real Estate, Alternative investment, Commidities, Asset allocation, annuities, brokerages, options, sustainable investing... | 投资策略、债券/固定收益，公募基金(共同基金)，股票，ETFs，房地产，大宗商品，资产配置，期权，经纪，替代投资，年金/社保， 可持续投资... |
-
-来源: Investopedia, wiki, MBA百科/mbalib, 百度百科
-
-
-
-通过对比中英文关键词的维基定义，我发现:
-
-### 理财产品/理财 ≠ 财富管理/财务管理/wealth management
-
-- 我们常说的“理财”实际上来源于国内银行的“理财产品”、“理财服务”。是从金融机构的产品角度出发的，它实际上应该参考了国外“wealth management”的理念。实际上，中国大多数银行还达不到“wealth management”的服务或水平，他们的理财就是不停推出理财产品，给大家购买。我们经常都在买理财产品，所以就习惯性的把“理财”挂在嘴边，等同于财富管理/财务管理了。
-- 国外和理财接近的概念是“wealth management”，和国内的“理财”不同的是，它是从个人出发，考虑个人/家庭如何管理和配置自己的财富, 它按照个人/家庭的资产净值规模分类，来提供有针对性的财富管理服务和规划
-
-### 投资＝investment+investing
+**投资＝investment+investing**
 
 - 英文的投资有名词（investment）和动词（investing）之分，前者是投资的标的，后者是投资的行为和策略。中文的“投资”，则涵盖了两者。
 
@@ -98,9 +183,72 @@ What is Investing（Investopedia）
 
 
 
+**关键词列表**
+
+| 层级 | 英文                                                         | 中文                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 一级 | fortune, wealth, invest/investment，finance                  | 财富、投资、金融                                             |
+| 二级 | Investing, Investor，Financial Planning, Wealth Management   | 投资者、财富管理、理财产品、投机、赌博                       |
+| 三级 | financial analysis, investment strategy, bond/fixed income,mutual fund,stocks, ETFs, Real Estate, Alternative investment, Commidities, Asset allocation, annuities, brokerages, options, sustainable investing... | 投资策略、债券/固定收益，公募基金(共同基金)，股票，ETFs，房地产，大宗商品，资产配置，期权，经纪，替代投资，年金/社保， 可持续投资... |
+
+来源: Investopedia, wiki, MBA百科/mbalib, 百度百科
+
+
+
 ## 2.2 常见投资手段
 
-### 公募基金 ≈ Mutual Fund
+### 2.2.1 银行理财
+
+通过对比中英文关键词的维基定义之后发现:
+
+**理财产品/理财 ≠ 财富管理/财务管理/wealth management**
+
+- 我们常说的“理财”实际上来源于国内银行的“理财产品”、“理财服务”。是从金融机构的产品角度出发的，它实际上应该参考了国外“wealth management”的理念。实际上，中国大多数银行还达不到“wealth management”的服务或水平，他们的理财就是不停推出理财产品，给大家购买。我们经常都在买理财产品，所以就习惯性的把“理财”挂在嘴边，等同于财富管理/财务管理了。
+- 国外和理财接近的概念是“wealth management”，和国内的“理财”不同的是，它是从个人出发，考虑个人/家庭如何管理和配置自己的财富, 它按照个人/家庭的资产净值规模分类，来提供有针对性的财富管理服务和规划
+
+可以使用百度百科的定义来解释中国特有的 [银行理财产品](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)
+
+> [银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C)理财产品是[商业银行](https://baike.baidu.com/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C/365199)在对潜在[目标客户](https://baike.baidu.com/item/%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7)群分析研究的基础上，[针对](https://baike.baidu.com/item/%E9%92%88%E5%AF%B9)特定目标客户群开发设计并[销售](https://baike.baidu.com/item/%E9%94%80%E5%94%AE/239410)的资金投资和管理计划。在[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81/9711316)这种投资方式中，[银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C/392719)只是接受客户的授权管理资金，投资收益与风险由客户或客户与银行按照约定方式双方承担。
+
+
+
+### 2.2.2 信托
+
+[百度百科定义](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98)
+
+> 信托（Trust）是一种[理财](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2/550678)方式，是一种特殊的财产管理制度和法律行为，同时又是一种[金融](https://baike.baidu.com/item/%E9%87%91%E8%9E%8D/860)制度。信托与[银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C/392719)、[保险](https://baike.baidu.com/item/%E4%BF%9D%E9%99%A9/262)、[证券](https://baike.baidu.com/item/%E8%AF%81%E5%88%B8/267)一起构成了现代金融体系。信托业务是一种以信用为基础的[法律](https://baike.baidu.com/item/%E6%B3%95%E5%BE%8B/84813)行为，一般涉及到三方面当事人，即投入信用的委托人，受信于人的受托人，以及受益于人的受益人。
+
+
+
+> 信托类[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)是指由银行发行的人民币理财产品所募集的全部资金，投资于指定[信托公司](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98%E5%85%AC%E5%8F%B8)作为受托人的专项[信托计划](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98%E8%AE%A1%E5%88%92)。目前，各家银行推出的信托类理财产品主要是银行与信托公司合作，将[募集资金](https://baike.baidu.com/item/%E5%8B%9F%E9%9B%86%E8%B5%84%E9%87%91)投资于信托公司推出的信托理财计划。信托类理财产品的收益可以是固定的，也可以是浮动的。
+
+
+
+**信托当事人**
+
+信托关系中规定信托当事人分为三方：
+
+* 委托人（具有完全民事行为能力的自然人、法人或者依法成立的其它组织）；
+
+* 受托人（具有完全民事行为能力的自然人、法人）；
+
+* 受益人（指在信托中享有信托受益权的人，受益人可以是自然人、法人或者依法成立的其它组织）。受益人和委托人可以是同一人，也可以不是同一人；受托人可以是受益人，但不得是同一信托的唯一受益人。上述三者关系既是一种经济关系，又是一种法律关系。
+
+
+
+**信托的特点**
+
+1. 投资灵活，收益较高 。信托公司是目前唯一准许同时在资本市场、货币市场和实业领域投资的金融机构。信托产品投资灵活，投资领域多元化，所以在一定程度上有效降低投资风险，实现投资人收益最大化。期限灵活，收益高于存款和银行理财产品。 期限从1天期限，到3年期不等，收益率相比较银行理财产品高1%~3%左右，优势非常明显。
+
+2. 风险可控，安全保障 。信托产品财产在法律上独立，不受信托公司破产清算影响；信托财产的所有权、管理权、受益权相分离，从制度上提供了安全保障。 从法律层面上保障了投资者的资产安全。
+
+3. 信托投资更加适合高端人群的资产配置。信托产品的认购起点是100万元，对投资者认购也有要求。目前国内信托产品受到高净值客户的青睐，并且为高净值客户创造了年化8%~13%的年化收益，成为高净值客户资产配置的首选产品类型，安全稳定。
+
+
+
+### 2.2.3 基金
+
+#### 公募基金 ≈ Mutual Fund
 
 - 我们本次项目研究的对象"基金"，应准确的定义为：Mutual Fund, 公募基金/共同基金。它在我们本次研究中，对个人的财富管理需要来说，关键词层级关系是这样的**财富管理>投资>金融投资>共同基金**；股票、金融市场，则是和共同基金行业相关的其他关键词，**金融市场>股票>股票型共同基金**。而我们常听到的**公募基金**，是从发行方式来区分相对于"私募基金"而言的。从实际含义上说，公募基金是指公墓的证券投资基金，类似于“股票型共同基金”，但在我国，大家都更习惯用"公募基金"，而不是"共同基金"。
 
@@ -140,65 +288,117 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 
 
+#### 共同基金的类别
 
+**按基金组织形式区分**
+按证券投资基金组织形式可分为：契约型（Contract Type）和公司型（Company Type）。
+
+* 契约型基金，也称信托型基金，它是依据信托契约通过发行受益凭证而组建的投资基金。该类基金一般由基金经理、基金保管人及投资者三方当事人订立信托契约。基金经理可以作为基金的发起人，通过发行受益凭证将资金筹集起来组成信托财产，并依据信托契约，由基金托管人负责保管信托财产，具体办理证券、现金管理及有关的代理业务等；投资者也是受益凭证的持有人，通过购买受益凭证，参与基金投资，享有投资受益。基金发行的受益凭证表明投资者对投资基金所享有的权益。
+
+* 公司型基金依公司法成立，通过发行基金股份将集中起来的资金投资于各种证券。公司型基金在组织形式上与股份有限公司类似，基金公司资产为投资者（股东）所有，由股东选举董事会，由董事会先聘基金经理，基金经理负责管理基金业务。公司型基金的组织结构主要有以下几个方面当事人：基金股东、基金公司、投资顾问或基金经理、基金保管人、基金转换代理人、基金主承销商。
+
+**按交易方式区分**
+共同基金按交易方式可分为开放式基金、封闭式基金及股票交易所交易基金。
+
+* 开放式基金指投资人直接向基金公司或其代理机构购买及卖出基金，以基金净值作为买入卖出价格，开放式基金的规模会随着投资人的买入卖出而增加。
+
+* 封闭式基金指一个基金在一开始募集完成之后，就不再由投资人直接或间接向基金公司购买，而是在股票市场上向其他拥有基金的购买人购买，因此基金的规模不会因为买卖而增加或减少，此外，由于市场上的预期涨跌心理，实际买卖的价格可能会与基金净值有一段差距。（此即折价或溢价）
+
+* 股票交易所交易基金又称作ETF，其大致上原理与封闭式基金类似，但增加了以基金与实物可交换（股票基金的话即股票）的机制，这一方面使得折溢价（价格与净值的差异）不会像封闭式基金那么大，另一方面资产变动虽不如开放式基金那么大，但会因交换机制而有所变化。
+
+**按操作方式区分**
+按操作方式一般可分为主动型基金及指数基金。
+
+* 主动型基金即操作策略，买进卖出等都由基金经理人或团队来作决定，希望能获得最好的绩效，市面上多数的基金属于此类。
+
+* 指数型基金，基金经理人运用追纵技术，使得基金的表现能与相对应股价指数相近。一般而言这类基金的收费较便宜，因此实际上绩效并不输给主动型基金。目前市面上大多数ETF都属此类型（2008年在美国开始出现少数主动型ETF），但也有许多开放型的指数基金。
+
+**按资产类别区分**
+依照资产类别，共同基金大致可分为：
+
+* 股票型基金：又可依投资地域、产业再细分。
+* 债券型基金：又可依债券类型、地域再细分。
+* 货币型基金：可依货币币种再细分。
+* 平衡型基金：可同时持有多种类别资产。
+* 地产基金、不动产投资信托基金
+* 原物料基金
+* 避险基金（Hedge Fund）：除持有一般资产之外，经理人可运用更多的金融工具或手法，如期货、选择权，放空股票等手法来操作基金。
+
+### 2.2.4 股票
+
+定义（mbalib）
+
+> 股票是股份证书的简称，是[股份公司](https://wiki.mbalib.com/wiki/%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8)为筹集资金而发行给股东作为持股凭证并借以取得[股息](https://wiki.mbalib.com/wiki/%E8%82%A1%E6%81%AF)和[红利](https://wiki.mbalib.com/wiki/%E7%BA%A2%E5%88%A9)的一种[有价证券](https://wiki.mbalib.com/wiki/%E6%9C%89%E4%BB%B7%E8%AF%81%E5%88%B8)。每股股票都代表股东对企业拥有一个基本单位的[所有权](https://wiki.mbalib.com/wiki/%E6%89%80%E6%9C%89%E6%9D%83)。这种所有权是一种综合权利，如参加[股东大会](https://wiki.mbalib.com/wiki/%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A)、投票表决、参与公司的重大决策、收取股息或分享红利等。同一类别的每一份股票所代表的公司所有权是相等的。每个股东所拥有的公司所有权份额的大小，取决于其持有的股票数量占公司[总股本](https://wiki.mbalib.com/wiki/%E6%80%BB%E8%82%A1%E6%9C%AC)的比重。股票是股份公司[资本](https://wiki.mbalib.com/wiki/%E8%B5%84%E6%9C%AC)的构成部分，可以转让、买卖或作价[抵押](https://wiki.mbalib.com/wiki/%E6%8A%B5%E6%8A%BC)，是[资本市场](https://wiki.mbalib.com/wiki/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA)的主要[长期信用工具](https://wiki.mbalib.com/wiki/%E9%95%BF%E6%9C%9F%E4%BF%A1%E7%94%A8%E5%B7%A5%E5%85%B7)，但不能要求公司返还其出资。股东与公司之间的关系不是[债权](https://wiki.mbalib.com/wiki/%E5%80%BA%E6%9D%83)[债务](https://wiki.mbalib.com/wiki/%E5%80%BA%E5%8A%A1)关系。股东是公司的所有者，以其出资份额为限对公司负有限责任，承担风险，分享[收益](https://wiki.mbalib.com/wiki/%E6%94%B6%E7%9B%8A)
+
+
+
+**基本特征**
+
+1. 不可偿还性。股票是一种无偿还期限的[有价证券](https://wiki.mbalib.com/wiki/%E6%9C%89%E4%BB%B7%E8%AF%81%E5%88%B8)，投资者认购了股票后，就不能再要求[退股](https://wiki.mbalib.com/wiki/%E9%80%80%E8%82%A1)，只能到[二级市场](https://wiki.mbalib.com/wiki/%E4%BA%8C%E7%BA%A7%E5%B8%82%E5%9C%BA)卖给第三者。股票的转让只意味着公司股东的改变，并不减少[公司资本](https://wiki.mbalib.com/wiki/%E5%85%AC%E5%8F%B8%E8%B5%84%E6%9C%AC)。从期限上看，只要公司存在，它所发行的股票就存在，股票的期限等于公司存续的期限。
+
+2. 参与性。股东有权出席[股东大会](https://wiki.mbalib.com/wiki/%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A)，选举公司[董事会](https://wiki.mbalib.com/wiki/%E8%91%A3%E4%BA%8B%E4%BC%9A)，参与公司重大决策。股票持有者的投资意志和享有的经济利益，通常是通过行使股东参与权来实现的。
+
+3. [收益性](https://wiki.mbalib.com/wiki/%E6%94%B6%E7%9B%8A%E6%80%A7)。股东凭其持有的股票，有权从公司领取股息或红利，获取投资的收益。股息或红利的大小，主要取决于公司的[盈利](https://wiki.mbalib.com/wiki/%E7%9B%88%E5%88%A9)水平和公司的盈利分配政策。
+4. 流通性。股票的流通性是指股票在不同投资者之间的可交易性。流通性通常以可流通的股票数量、股票[成交量](https://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F)以及股价对交易量的敏感程度来衡量。可[流通股](https://wiki.mbalib.com/wiki/%E6%B5%81%E9%80%9A%E8%82%A1)数越多，[成交量](https://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F)越大，价格对成交量越不敏感（价格不会随着[成交量](https://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F)一同变化），股票的流通性就越好，反之就越差。
+
+5. 价格波动性和风险性。股票在[交易市场](https://wiki.mbalib.com/wiki/%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA)上作为交易对象，同商品一样，有自己的市场行情和市场价格。由于股票价格要受到诸如公司[经营状况](https://wiki.mbalib.com/wiki/%E7%BB%8F%E8%90%A5%E7%8A%B6%E5%86%B5)、[供求关系](https://wiki.mbalib.com/wiki/%E4%BE%9B%E6%B1%82%E5%85%B3%E7%B3%BB)、[银行](https://wiki.mbalib.com/wiki/%E9%93%B6%E8%A1%8C)利率、大众心理等多种因素的影响，其波动有很大的不确定性。正是这种不确定性，有可能使股票投资者遭受损失。价格波动的不确定性越大，[投资风险](https://wiki.mbalib.com/wiki/%E6%8A%95%E8%B5%84%E9%A3%8E%E9%99%A9)也越大。因此，股票是一种高风险的[金融](https://wiki.mbalib.com/wiki/%E9%87%91%E8%9E%8D)[产品](https://wiki.mbalib.com/wiki/%E4%BA%A7%E5%93%81)。
+
+   
 
 ## 2.3 复利
 
+大家都知道这么一个故事：
+
+印度有个古老故事，国王与象棋国手下棋输了，国手要求在第一个棋格中放上一粒麦子，第二格放上两粒，第三格放上四粒，即按[复利增长](https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9%E5%A2%9E%E9%95%BF)的方式放满整个棋格。国王以为这个棋手可以得到一袋麦子，结果却是全印度的麦子都不足以支付。
+
+连股神巴菲特都说：“全世界最厉害的力量叫做想象力，但最恐怖的力量叫做复利，复利可以让你的钱越变越大，大到你无法想象的地步。”
+
+**追逐复利的力量，正是资本积累的动力。**
 
 
 
+**复利的计算方式：**
+
+> 复利计算的特点是：把上期未的[本利和](https://wiki.mbalib.com/wiki/%E6%9C%AC%E5%88%A9%E5%92%8C)作为下一期的本金，在计算时每一期本金的数额是不同的。复利的计算公式是：*S* = *P*(*I* + *i*)*n*，其中以符号I代表利息，P代表本金，n代表期数，i代表[利率](https://wiki.mbalib.com/wiki/%E5%88%A9%E7%8E%87)，S代表本利和。
 
 
+
+**复利终值**
+
+> 复利终值是指本金在约定的期限内获得利息后，将利息加入本金再计利息，逐期滚算到约定期末的本金之和。
+
+![zhongzhi](https://wiki.mbalib.com/w/images/math/2/1/0/2107932dc870d6d8972207879d15ac60.png)
+
+其中：（1+i）n　　被称为[复利终值系数](https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9%E7%BB%88%E5%80%BC%E7%B3%BB%E6%95%B0)，符号用![(\frac{S}{p},i,n)](https://wiki.mbalib.com/w/images/math/0/c/c/0cc65b76234288bee64d5d153a8557f2.png)表示。
+
+
+
+**复利现值**
+
+> 复利现值是指在计算复利的情况下，要达到未来某一特定的资金金额，现在必须投入的本金。
+
+![xianzhi](https://wiki.mbalib.com/w/images/math/f/7/8/f78aa7412f90818a35df8b0ea1320ece.png)
+
+其中：(1 + *i*) − *n*被称为[复利现值系数](https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9%E7%8E%B0%E5%80%BC%E7%B3%BB%E6%95%B0)，符号用![(\frac{p}{s},i,n)](https://wiki.mbalib.com/w/images/math/d/3/7/d376b900ebef8af6eff0b53839c6717a.png)表示
+
+
+
+**72法则**
+
+> 想要知道资产翻一倍要多少时间或翻一倍要多少的回报率，只需要将72除以投资回报率或时间就行。
+
+通过这一法则：
+
+1. 在给出某一回报率时，可以求出翻一倍所要的投资时间。比如，如果投资回报率为6%，想要资产翻倍所用的时间为12年（72/6=12）
+2. 给出某一投资期限，可以求出翻一倍所要的投资回报率。比如，想要资产在8年内翻倍，要求的投资回报率为9%（72/8=9）。
+
+“72法则”只是一个经验法则，如果投资期限为1年的话，这个法则是不适用的，因为，要想投资在1年内翻倍，投资回报率必须为100%，而不是72%，投资期限乘以回报率的乘积为100（1X100=100)，如果回报率为72%根本不能翻一倍。
 
 
 
 ## 3. 富人俱乐部
 
-### 3.1 変富的世界
-
-从[中国富人报告](https://www.sifma.org/resources/general/new-visionaries-and-the-chinese-century-billionaires-insights-2018/)中得到全球富人增长率。
-
-![fig7_rich](https://github.com/bchen4/images/raw/master/omc_ia/chinese_billion_fig_7.png)
-
-报告中指出整个2017年，全球亿万富翁（资产十亿美金）的总财产从1.4万亿美元增加到8.9万亿。（[福布斯2018富豪榜](https://www.forbes.com/billionaires/#76e74ee251c7)的数据是9.1万亿）。2017年新晋332名亿万富翁中，199白手起家，其中89位来自中国。
-
-
-
-**MSCI ACWI **
-
-> MSCI国家指数”由[摩根士丹利](https://baike.baidu.com/item/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9)资本国际公司（MSCI）收集每个上市公司的[股价](https://baike.baidu.com/item/%E8%82%A1%E4%BB%B7/9079155)、发行量、[大股东](https://baike.baidu.com/item/%E5%A4%A7%E8%82%A1%E4%B8%9C)持有量、[自由流通量](https://baike.baidu.com/item/%E8%87%AA%E7%94%B1%E6%B5%81%E9%80%9A%E9%87%8F/549166)、每月交易量等数据，并将上市公司按全球行业分类标准(GICS)进行分类，在每一个行业以一定的标准选取60%[市值](https://baike.baidu.com/item/%E5%B8%82%E5%80%BC/3694784)的股票作为[成份股](https://baike.baidu.com/item/%E6%88%90%E4%BB%BD%E8%82%A1/9734053)，选取标准包括规模（市值）、长期短期交易量、[交叉持股](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E6%8C%81%E8%82%A1/6881459)情况和[流通股](https://baike.baidu.com/item/%E6%B5%81%E9%80%9A%E8%82%A1/8333337)数量。由于[摩根士丹利](https://baike.baidu.com/item/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9)资本国际公司先划分[行业](https://baike.baidu.com/item/%E8%A1%8C%E4%B8%9A/2063999)，再从行业中选择股票，这样保证了指数组合中各行业都有相对固定比例的股票，使得指数具有较强的行业代表性。
-
-解释来自[百度百科MSCI世界指数](https://baike.baidu.com/item/MSCI%E5%9B%BD%E5%AE%B6%E6%8C%87%E6%95%B0), 交叉验证：[维基百科MSCI world](https://en.wikipedia.org/wiki/MSCI_World)
-
-
-
-### 3.2 変富的中国
-
-跟2017年相比，中国2018年的GDP增加了4.6% （国家统计局数据交叉验证），成人财富也增加了4%。高于世界水平。
-
-![fig9](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_9.png)
-
-
-
-而中国人成人财富中位数，从2017年的2170美元以平均年化率7%的增加率一路增加到2018年的16330 美元。
-
-![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_13.png)
-
-
-
-目前在全球范围内，中国人的财富分布有如下特征：
-
-- 70-90 百分位数中，中国占了一半。 总体来说大部分中国人在世界范围内属于上中产。（北美和欧洲大部分人口都挤在top10）
-
-- 全球最富的10%的人口中，中国人占了18%， 仅次于美国人（20%）
-
-  
-
-![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_12.png)
-
-
-
-### 3.3 富人靠什么发家致富
+### 3.1 富人靠什么发家致富
 
 由[Global family office report 2018](https://www.ubs.com/global/en/wealth-management/uhnw/global-family-office/global-family-office-report-2018.html)中可以找到他们的客户所从事的行业。而family office简单粗暴的说就是为首富们管理钱财的公司。
 
@@ -222,7 +422,7 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 
 
-### 3.4 富人怎么投资
+### 3.2 富人怎么投资
 
 还是来自家庭银行的报告。他们的投资是很均衡的，有至少40%的资产是投资在中低风险的组合中，包括债券，现金和股市。其他的资产，会按照个人喜好，分配到低风险和高风险中。
 
@@ -839,6 +1039,32 @@ PCAOB注册为公司，不以营利为目的，受美国证监会监督，经费
 - 当市场为熊市时,女性基金经理降低基金风险承担水平更为显著。
 
 
+
+### 6.5.3 中美基金经理对比
+
+##### 规模和人数:
+
+截至2015年底，中国市场1200余位公募基金经理，管理着8.4万亿元的基金资产，服务着数千万的基金客户。
+根据相关统计数据，截至2015年，美国共同基金经理人数约7700人；从基金数来看，美国共同基金自2000年以来数量变化不大，平均在八九千只上下浮动。
+
+##### 年龄:
+
+中国:国内公募基金经理平均年龄是多大？公开资料并不完整，从wind现有的149个样本来看，年龄最大的基金经理53岁，最小的29，平均年龄为39岁。中国证券投资基金业协会最新发布的《中国证券投资基金业2015年年报》显示，截至2015年末，经注册的在职公募基金经理共计1273人，30岁~45岁年龄段，占比为40.46%；30岁以下为140人，占比11%；而45岁~55岁者仅为61人，占比4.79%。注意，暂无55岁及以上的基金经理。没有。
+
+美国:笔者在彭博上查到600多个有公开年龄的美国公私募基金经理样本，大部分年龄分布在40到60岁之间，平均年龄为54.9岁，从一个侧面展示美国资管行业还是有许多活跃的资管“老将”。
+
+##### 在职时间和管理基金规模:
+
+中国:基金经理平均在职时间有多久呢？Wind数据显示，公募基金经理管理一只基金的最长时间是11年，而整个公募行业基金经理管理一只基金的平均时间约1.3年。这个数字与近年来新基金发行加速关系密切，仅2014、2015两年发行的新基金数约1300只，几乎占现存基金数的半壁江山。另一方面，逐渐加速的公募基金经理跳槽和离职潮对于任职时间也有一定影响。另一数据显示，平均每位基金经理管理基金产品2.2只，其中管理基金数最多的达19只，人均管理资产规模接近70亿元人民币（扣除货币基金余额）。
+
+美国: 初步统计，美国共同基金经理平均每人管理1.2只基金，平均资产管理规模约在20亿美元。
+
+国内资产管理行业仍处于爆发式增长阶段，2015年，整个公募基金行业规模增幅达到85.24%，净增3.7万亿元。而私募基金发展更是如火如荼，银河证券数据显示，截至2015年底，登记公示的私募基金管理人已有2.48万家，每个月登记家数都超过1000家。蓬勃发展的资金管理行业，也让投资者挑花了眼，挑选靠谱、适合自己的投资管理团队的需求正在日趋升温。
+
+
+
+
+
 ## 7. 中国互联网基金平台
 
 ### 7.1 概念和特点
@@ -1053,14 +1279,374 @@ PCAOB注册为公司，不以营利为目的，受美国证监会监督，经费
 
 
 
-## 8 结论
+## 8. 大牛投资家
+
+wiki>投资者>投资者列表，列出了著名的投资家，其中国外几乎全部直接和基金相关。
+
+投资家列表
+
+- 巴菲特（1954 to 1956 基金公司的股票分析师 at Graham-Newman Corp. as a securities analyst，伯克夏•哈撒韦公司主席）
+- 索罗斯（1970年成立索罗斯基金,1973年成立量子基金，该基金是一只对冲基金）
+- 罗杰斯(1973年成立量子基金 共同创始人)
+- 詹姆斯·西蒙斯 (2005年，西蒙斯成为全球收入最高的对冲基金经理，净赚15亿美元，差不多是索罗斯的两倍；从1988年开始，他所掌管的大奖章基金年均回报率高达34％，15年来资产从未减少过,美国数学家、投资家和慈善家。是世界级的数学家，也是最伟大的对冲基金经理之一。)
+- 本杰明·格雷厄姆(被誉为证券分析之父、“华尔街院长”, 巴菲特的投资老师，1923年年初，格雷厄姆离开了纽伯格一亨德森一劳伯公司，决定自立门户。他成立了格兰赫私人基金)
+- 查理·芒格（伯克夏•哈撒韦公司的副主席）
+- 彼得·林奇（1977年接管并扩展麦哲伦基金之后的13年，使麦哲伦成为有史以来最庞大的共同基金，使其资产由2000万美元，增长到84亿美元，100万人共同持有）
+- 菲利普·费雪（Philip A. Fisher，1907-2004）：现代投资理论的开路先锋之一，成长股价值投资策略之父，巴菲特也受其投资理念的影响）
+- 郑铁如
+- 李嘉诚
+- 李忠瀚
+
+<https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B3%87%E8%80%85>
+
+##### investopedia 最伟大的投资人
+
+在investopedia 选出的21位最伟大的投资人中，有16位都创立了基金，其中有9位是共同基金经理：
+
+- John (Jack) Bogle （共同基金-指数基金之父，创立先锋基金，美国最大基金公司之一）
+- Warren Buffett（投资控股公司）
+- David Einhorn （对冲基金）
+- Stanley Druckenmiller（对冲基金）
+- David Dreman（共同基金）
+- Philip Fisher（基金）
+- Benjamin Graham（基金）
+- William H. Gross（共同基金）
+- Carl Icahn（投资控股公司）
+- Jesse L. Livermore（股票交易）
+- Peter Lynch（共同基金）
+- Bill Miller（共同基金）
+- John Neff（共同基金）
+- William J. O'Neil（股票交易，量化交易先行者）
+- Julian Robertson（对冲基金）
+- Thomas Rowe Price, Jr.（共同基金，美国最大基金公司之一）
+- James D. Slater（个人投资者）
+- George Soros（对冲基金）
+- Michael Steinhardt（对冲基金）
+- John Templeton（共同基金）
+- Ralph Wanger（共同基金）
 
 
 
+## 9. 参考文献
 
-# 参考文献
+### 书籍
 
-我最后会爬一下所有的issue把参考文献汇总
+- 《共同基金常识 》
+- 《钱：7步创造终身收入》
+- 《好好赚钱 》
+- 《穷爸爸富爸爸》
+- 《蓝筹孩子》
+- 《穷查理宝典》
+- 《彼得林奇教你理财》
+- 《财富自由之路》
+- 《小狗钱钱》
+- 《有钱人和你想的不一样》
+- 《邻家的百万富翁》
+
+- 《聪明的投资者》
+- 《重新定义理财顾问》
+- 《7分钟理财》
+- 《中国式财富管理》
+- 《富人的逻辑》
+- 《The global economy as you never seen it》
+- 《约翰.聂夫的成功投资》
+- [互联网金融:刘进一](https://book.douban.com/subject/30147268/)
+- [风吹江南](https://book.douban.com/subject/26429564/)
+- [互联网金融红利](https://book.douban.com/subject/26949148/)
+- [支付战争](https://book.douban.com/subject/26324497/)
+- [超简单！一学就懂的互联网金融](https://book.douban.com/subject/26394558/)
+- [互联网金融法律与风险控制](https://book.douban.com/subject/25908256/)
 
 
 
+### 报告
+
+[2015中国互联网基金行业研究报告简版.pdf](https://github.com/bchen4/lazy_investment/files/2736468/2015.pdf)
+
+[公募基金超过自身基准超额收益率归因-清华大学金融研究院.pdf](https://github.com/bchen4/lazy_investment/files/2736481/-.pdf)
+
+[美国工具化产品发展趋势-海通证券.pdf](https://github.com/bchen4/lazy_investment/files/2736485/-.pdf)
+
+[从数据来看中国内地与香港公募基金行业（上）：GDP和养老金背后.pdf](https://github.com/bchen4/lazy_investment/files/2736478/GDP.pdf)
+
+[2017年度美国公募基金业发展报告.pdf](https://github.com/bchen4/lazy_investment/files/2736475/2017.pdf)
+
+[晨星中国基金系列指数编制报告.pdf](https://github.com/bchen4/lazy_investment/files/2736473/default.pdf)
+
+[花旗银行2019投资指南](https://www.privatebank.citibank.com/ivc/docs/Outlook2019_Findings_Opportunities_CHS.pdf)
+
+[中国银行2019全球金融展望](http://www.199it.com/archives/815348.html)
+
+[中国理财网2018年上半年银行理财能力报告](https://www.chinawealth.com.cn/zzlc/xwdt/xwzx/20181116/2761867.shtml)
+
+[基金市场2019年年度策略报告 - 保持适当权益仓位 优选稳健均衡基金.pdf](https://github.com/bchen4/lazy_investment/files/2749596/2019.-.pdf)
+
+[晨星中国2018年度基金奖 ](http://www.cn.morningstar.com/article/AR00008776)
+
+[晨星Fund Family150 2018年第二季度报告及数据库]([FundFamily150_2018_Q2.pdf](https://github.com/bchen4/lazy_investment/files/2736491/FundFamily150_2018_Q2.pdf))
+
+[SRYH_20171201_中美公募基金对比分析.pdf](https://github.com/bchen4/lazy_investment/files/2748443/SRYH_20171201_.pdf)
+
+[中国基金业金牛奖评选信息披露(2017).pdf](https://github.com/bchen4/lazy_investment/files/2744786/2017.pdf)
+
+[Private Banking and Wealth Management Survey 2018: Global Results](<https://www.euromoney.com/article/b16m32n85z9l85/private-banking-and-wealth-management-survey-2018-global-results#Best%20Overall?copyrightInfo=true>)
+
+[GFO家族财富管理报告](https://github.com/bchen4/lazy_investment/files/2747981/gfo-report-2018-pdf-for-download-final.pdf)
+
+[亿万富翁报告]([ubs-pwc-billionaires-insights-2018.pdf](https://github.com/bchen4/lazy_investment/files/2747978/ubs-pwc-billionaires-insights-2018.pdf))
+
+[JP Morgan财富管理和资产配置趋势]([1320744602085.pdf](https://github.com/bchen4/lazy_investment/files/2747987/1320744602085.pdf))
+
+[瑞士信贷 Credit Suisse每年发布一次全球财富管理报告](<https://www.credit-suisse.com/media/assets/private-banking/docs/uk/global-wealth-report-2018.pdf>)
+
+[凯捷咨询公司Capgemini发布的《世界财富报告》](<https://www.capgemini.com/ch-de/wp-content/uploads/sites/26/2018/06/Capgemini-World-Wealth-Report-19.pdf>)
+
+[凯捷咨询公司Capgemini财富管理新趋势]([wealth-managment-trends-2018.pdf](https://github.com/bchen4/lazy_investment/files/2747994/wealth-managment-trends-2018.pdf))
+
+[胡润财富理财规划师报告2018-201804121157368362097.pdf](https://github.com/bchen4/lazy_investment/files/2748401/2018-201804121157368362097.pdf)
+
+[china bank wealth management-中国银行业理财市场报告.pdf](https://github.com/bchen4/lazy_investment/files/2748394/china.bank.wealth.management-.pdf)
+
+[中国理财师白皮书](http://res.hurun.net/Upload/file/20180412/201804121157368362097.pdf)
+
+[2017年中国财富管理行业研究报告-投中研究院.pdf](https://github.com/bchen4/lazy_investment/files/2736482/2017.-.pdf)
+
+[2018年度基金公司规模排行榜发布](https://www.sohu.com/a/285910569_99992453)
+
+[2017年度美国公募基金业发展报告.pdf](https://github.com/bchen4/lazy_investment/files/2752922/2017.pdf)
+
+[2018_investment factbook-ICI.pdf](https://github.com/bchen4/lazy_investment/files/2752924/2018_investment.factbook-ICI.pdf)
+
+[清华大学国家金融研究院--2014公募基金规模研究.pdf](https://github.com/bchen4/bench_investment/files/2759941/--2014.pdf)
+
+[2018美国基金业年鉴-数据图表简版](http://fund.jrj.com.cn/2018/05/15102724540756.shtml)
+
+[花旗银行2019年展望报告](https://www.privatebank.citibank.com/outlook.html)
+
+[2018银行理财收益排行](http://finance.eastmoney.com/a/201901101024209892.html)
+
+[中国银行业理财市场报告](https://www.chinawealth.com.cn/resource/830/846/863/51198/52005/2150127/15184294380932125823274.pdf)
+
+[金融机构事业部研究报告](http://www.zuoyou.com/zygw/asset/mxupload/up0687504001471427459.pdf)
+
+[福布斯2018富豪榜](https://www.forbes.com/billionaires/#76e74ee251c7)
+
+[wells fargo 2017年的财报](https://www08.wellsfargomedia.com/assets/pdf/about/investor-relations/presentations/2018/wealth-investment-management-presentation.pdf)
+
+[中国生育报告2019（上）](http://finance.sina.com.cn/zl/2019-01-02/zl-ihqfskcn3238686.shtml)
+
+[中国生育报告2019（下）](http://finance.sina.com.cn/china/gncj/2019-01-02/doc-ihqfskcn3501398.shtml)
+
+
+
+### 网页
+
+[百度词条：基金监管机构](https://baike.baidu.com/item/%E5%9F%BA%E9%87%91%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84)
+
+[中国证监会官网](http://www.csrc.gov.cn/pub/newsite/)
+
+[证券业协会](http://www.sac.net.cn/)
+
+[中国证券投资基金业协会 Asset Management Association of China](http://www.amac.org.cn/)
+
+[中华人民共和国证券投资基金法](http://www.csrc.gov.cn/pub/newsite/flb/flfg/flxzsf/201312/t20131205_239326.html)
+
+[中国证券报·中国基金业金牛奖](http://www.cs.com.cn/jnj/jnjj/)
+
+[上海证券报·“金基金”奖](http://meeting.cnstock.com/jjj)
+
+[证券时报“中国基金业明星基金奖”评奖方法 - 中国证券投资基金业协会](https://github.com/bchen4/bench_investment/issues/www.amac.org.cn/upload/jjpj/xxpl/1357646794233.doc)
+
+[东方财富网·基金计算器](http://data.eastmoney.com/money/calc/FundCalcDTSY.html)
+
+[好买基金网·基金计算器](https://www.howbuy.com/fundtool/calfundaip.htm)
+
+[FT中国通胀文章](http://www.ftchinese.com/story/001080931?full=y&from=groupmessage&isappinstalled=0#ccode=2G188002)
+
+[微笑曲线](https://en.wikipedia.org/wiki/Smiling_curve)
+
+[investopedia_investment](https://www.investopedia.com/terms/i/investment.asp)
+
+[信托的特征知乎](https://www.zhihu.com/question/24655418/answer/229418172)
+
+[信托的定义](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98)
+
+[信托理财定义](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98%E7%90%86%E8%B4%A2)
+
+[股票](https://wiki.mbalib.com/wiki/%E8%82%A1%E7%A5%A8)
+
+[复利的计算](https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9)
+
+[复利的通俗计算](https://www.rong360.com/gl/2017/11/29/146387.html)
+
+[中美基金业的几组数据对比](http://cn.morningstar.com/article/AR00002629)
+
+[基金经理的年龄](http://www.nbd.com.cn/articles/2017-02-20/1077482.html)
+
+[中国证券投资基金业协会](http://www.amac.org.cn/tjsj/xysj/jjgssj/393733.shtml)
+
+[基金管理机构公募基金月均规模前20名（2017年三季度）](http://www.amac.org.cn/tjsj/xysj/jjgssj/392541.shtml)
+
+[中国证券投资基金业协会信息公示](http://gs.amac.org.cn/)
+
+[证券公司资管产品目录](http://gs.amac.org.cn/amac-infodisc/res/pof/securities/index.html)
+
+[基金从业人员资格信息公示](http://person.amac.org.cn/pages/registration/amac-publicity-report.html)
+
+[中美基金经理对比](http://finance.sina.com.cn/money/fund/jjzl/2016-01-27/doc-ifxnuvxh5207106.shtml)
+
+[首批养老目标基金获批 长期资金入市可期](http://stock.cnstock.com/stock/smk_jjdx/201808/4255355.htm)
+
+[一文读懂终于面世的养老目标基金](https://www.guancha.cn/economy/2018_08_07_467239.shtml)
+
+[聊聊目标日期基金与目标风险基金不同与相同](http://fund.jrj.com.cn/2018/03/26132524298649.shtml)
+
+[wiki:美国国债](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%82%B5)
+
+[知乎:美国国债](https://www.zhihu.com/topic/19633976/intro)
+
+[美国财政部 : 国债收益率曲线利率](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)
+
+[宋鸿兵：联储加息招致金融风暴，三项指标为你赢得24小时逃命时间](http://www.sohu.com/a/285371282_636860)
+
+[美债收益率曲线倒挂，衰退还有多远？](https://zhuanlan.zhihu.com/p/51583296)
+
+[美债收益率曲线11年来首现倒挂 意味着什么？](https://wallstreetcn.com/articles/3448141)
+
+[美国经济衰退概率和美债利率下行极限探讨](https://wallstreetcn.com/articles/3466753)
+
+[Wind, iFind, Choice 三个数据终端哪个最强大？或各有什么强项？](https://www.zhihu.com/question/33665825)
+
+[东方财富Choice数据官网](http://choice.eastmoney.com/)
+
+[苹果官网--东方财富信息股份有限公司产品目录](https://itunes.apple.com/cn/developer/%E4%B8%9C%E6%96%B9%E8%B4%A2%E5%AF%8C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id423525689?mt=8)
+
+[苹果官网--WIND软件](https://itunes.apple.com/cn/app/wind%E9%87%91%E8%9E%8D%E7%BB%88%E7%AB%AF-%E6%9C%BA%E6%9E%84%E4%B8%93%E7%94%A8/id1123416056?mt=12)
+
+[公募基金公司TOP20基础信息.xlsx](https://github.com/bchen4/lazy_investment/files/2751629/TOP20.xlsx)
+
+[基金复兴纲要](http://fund.eastmoney.com/news/1596,20111021170812648_0.html)
+
+[中国第一批基金的诞生：笼罩在索罗斯的阴影下](http://finance.sina.com.cn/money/fund/jjyj/2016-02-10/doc-ifxpfhzq2699063.shtml)
+
+[公募基金行业发展转型](http://finance.sina.com.cn/money/roll/2017-03-20/doc-ifycnpiu9162153.shtml)
+
+[中国公募基金规模数据表.xlsx](https://github.com/bchen4/bench_investment/files/2759938/default.xlsx)
+
+[基金监管机构](https://wiki.mbalib.com/wiki/%E5%9F%BA%E9%87%91%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84)
+
+[美国三大证券监管机构2013年度报告的分析、比较和借鉴](http://www.csrc.gov.cn/pub/newsite/yjzx/yjbg/201406/t20140630_257028.html)
+
+[百度百科：美国金融业监管局 FINRA](https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E9%87%91%E8%9E%8D%E4%B8%9A%E7%9B%91%E7%AE%A1%E5%B1%80)
+
+[百度百科：美国公众公司会计监督委员会 PCAOB](https://baike.baidu.com/item/PCAOB)
+
+[美国投资公司协会简介](http://www.amac.org.cn/qqsy/xhzy/382645.shtml)
+
+[基金业发展大趋势！美国这样走 对中国公募基金有何启示？](http://fund.eastmoney.com/a/20181024969514881.html)
+
+[基金教父约翰博格：美国共同基金60年的巨变](http://fund.jrj.com.cn/2018/01/12070723934363.shtml)
+
+[基金教父约翰博格：美国共同基金60年的巨变 (英文版)](<https://www.cfapubs.org/doi/pdf/10.2469/faj.v61.n1.2678>)
+
+[美国共同基金规模数据表.xlsx](https://github.com/bchen4/bench_investment/files/2759920/default.xlsx)
+
+[银行理财产品](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)
+
+[搏弈睿选数据](http://www.sohu.com/a/214688672_556378)
+
+[云掌财经知乎回答](https://www.zhihu.com/question/20803106/answer/162020968)
+
+[开放式和封闭式产品](https://www.tuandai.com/article/detail_19310.html)
+
+[金牛理财关于净值型产品的介绍](http://www.jnlc.com/bank2018/0615210548.shtml)
+
+[从基金公司组织架构聊聊基金经理为何如此重要？](http://fund.jrj.com.cn/2017/08/16101222946350.shtml)
+
+[易方达基金：组织架构](http://www.efunds.com.cn/html/menu/8.htm)
+[博时基金：组织架构](http://capital.bosera.com/column/index.do?classid=00020002000200010005)
+
+[华夏基金：投资研究部](http://www.chinaamc.com/guanyu/touzi/index.shtml)
+
+[基金业“小主”突围术：事业部改革活力再造](http://www.amac.org.cn/cms/article/preview?ID=387593)
+
+[基金事业部试水三年有些尴尬 私募式提成并非灵丹妙药](http://fund.eastmoney.com/news/1590,20170405726176942.html)
+
+[美国财政部网站](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield)
+
+[美国银行官网](https://www.bankofamerica.com/planning/compareservices.go)
+
+[wiki:有效市场假说](https://wiki.mbalib.com/wiki/%E6%9C%89%E6%95%88%E5%B8%82%E5%9C%BA%E5%81%87%E8%AF%B4)
+
+[知乎：效率市场假说](https://zh.wikipedia.org/wiki/%E6%95%88%E7%8E%87%E5%B8%82%E5%A0%B4%E5%81%87%E8%AA%AA)
+
+[百度：有效市场假说](https://baike.baidu.com/item/%E6%9C%89%E6%95%88%E5%B8%82%E5%9C%BA%E5%81%87%E8%AF%B4)
+
+[wiki:分形市场假说](https://wiki.mbalib.com/wiki/%E5%88%86%E5%BD%A2%E5%B8%82%E5%9C%BA%E5%81%87%E8%AF%B4)
+
+[股票市场中的分形市场是什么？什么是分形市场](http://stock.10jqka.com.cn/zhishi/20160108/c587058551.shtml)
+
+[基金评级大PK，盲目迷信不如作为工具使用 ](http://www.sohu.com/a/162897209_544821)
+
+[百度百科：理柏公司](https://baike.baidu.com/item/%E7%90%86%E6%9F%8F%E5%85%AC%E5%8F%B8)
+[wiki: 理柏公司](https://wiki.mbalib.com/wiki/%E7%90%86%E6%9F%8F%E5%85%AC%E5%8F%B8)
+
+[晨星方法论](http://cn.morningstar.com/methodology)
+
+[中国银河证券基金评级的原则与方法](https://github.com/bchen4/bench_investment/issues/zxbj.finchina.com/fcasp/fund/morningstar/pdf/pdf.asp?f=2)
+
+[海通证券基金产品评级方法](https://www.htsec.com/ChannelHome/1513017/2595557.shtml)
+
+[济安金信基金风险评价解决方案(2017)](https://www.swhysc.com/download/attachment/201709/15/194.pdf)
+
+[中国证券协会](http://www.sac.net.cn/hysj/zqgsyjpm/201811/t20181114_137039.html)
+
+[东方财富数据](http://choice.eastmoney.com/)
+
+[企查查](https://www.qichacha.com/)
+
+[中国证监会](http://www.csrc.gov.cn/)
+
+[金融界基金](http://fund.jrj.com.cn/jg/xsjg/zqgs.shtml)
+
+[天天基金](https://www.1234567.com.cn/)
+
+[好买基金](https://www.ehowbuy.com/login/login.htm)
+
+[蚂蚁财富](https://www.antfortune.com/)
+
+[盈米基金](https://www.yingmi.cn/)
+
+[互联网基金产品报告：平均年化收益率5.07%](http://money.163.com/14/0319/07/9NMCFBJ900251LDV.html)
+
+[中国基金报](http://press.chnfund.com/paper/zgjjb/html/epaper/index/index.htm)
+
+[MBALib](https://wiki.mbalib.com/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E5%9F%BA%E9%87%91)
+
+[互联网基金销售告别无监管时代](http://www.xqfunds.com/info.dohscontentid=114295.htm)
+
+[新浪基金宝](http://finance.sina.com.cn/fund/box/)
+
+[互联网基金销售有哪些法律法规，互联网基金销售又有哪些新趋势](http://www.fabao365.com/jinrongzhengquan/151762/)
+
+[华夏时报网](http://www.chinatimes.net.cn/article/73811.html)
+
+[关于进一步规范货币市场基金互联网销售、赎回相关服务的指导意见](http://www.csrc.gov.cn/pub/zjhpublic/zjh/201806/P020180601498800000970.pdf)
+
+[基金销售市场竞争激烈，第三方机构能否“搅局”银行？](http://finance.sina.com.cn/money/fund/fundzmt/2018-09-03/doc-ihiqtcan6758331.shtml)
+
+[腾讯入局，互联网巨头基金销售大战升级](https://36kr.com/p/5115076.html)
+
+[代销牌照稀缺 第三方基金销售机构迅猛崛起](http://www.xinhuanet.com/money/2018-11/15/c_129994755.htm)
+
+[东方财富拿下公募牌照！第三方基金销售市场要巨变了？](http://www.nbd.com.cn/articles/2018-10-09/1261208.html)
+
+[第三方基金销售平台](http://baike.jinqiao80.com/jijin/20708.html)
+
+[互联网基金销售平台的专业服务还应强化](http://finance.ce.cn/rolling/201512/14/t20151214_7529201.shtml)
+
+[中场沉寂之后：互联网基金剑指“千人千面”](http://funds.hexun.com/2017-08-04/190314172.html)
+
+[互联网基金销售市场规模达数万亿 阿里、腾讯等加速布局](http://www.chinatimes.net.cn/article/73811.html)
+
+[公开募集基金销售机构名录](http://www.csrc.gov.cn/zjhpublic/G00306205/201509/t20150924_284306.htm)
