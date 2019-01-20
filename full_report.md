@@ -260,7 +260,7 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 百度百科这样定义 [银行理财产品](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)
 
-> 银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C)理财产品是[商业银行](https://baike.baidu.com/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C/365199)在对潜在[目标客户](https://baike.baidu.com/item/%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7)群分析研究的基础上，[针对](https://baike.baidu.com/item/%E9%92%88%E5%AF%B9)特定目标客户群开发设计并[销售](https://baike.baidu.com/item/%E9%94%80%E5%94%AE/239410)的资金投资和管理计划。在[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81/9711316)这种投资方式中，[银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C/392719)只是接受客户的授权管理资金，投资收益与风险由客户或客户与银行按照约定方式双方承担。 [1-2] 
+> [银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C)理财产品是[商业银行](https://baike.baidu.com/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C/365199)在对潜在[目标客户](https://baike.baidu.com/item/%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7)群分析研究的基础上，[针对](https://baike.baidu.com/item/%E9%92%88%E5%AF%B9)特定目标客户群开发设计并[销售](https://baike.baidu.com/item/%E9%94%80%E5%94%AE/239410)的资金投资和管理计划。在[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81/9711316)这种投资方式中，[银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C/392719)只是接受客户的授权管理资金，投资收益与风险由客户或客户与银行按照约定方式双方承担。 [1-2] 
 >
 > [银监会](https://baike.baidu.com/item/%E9%93%B6%E7%9B%91%E4%BC%9A/3520979)出台的《商业银行[个人理财业务](https://baike.baidu.com/item/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2%E4%B8%9A%E5%8A%A1/3031322)管理暂行办法》对于“个人理财业务”的界定是，“商业银行为个人客户提供的财务分析、财务规划、[投资顾问](https://baike.baidu.com/item/%E6%8A%95%E8%B5%84%E9%A1%BE%E9%97%AE/537534)、资产管理等专业化服务活动”。商业银行个人理财业务按照管理运作方式的不同，分为[理财顾问服务](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E9%A1%BE%E9%97%AE%E6%9C%8D%E5%8A%A1/9984847)和综合理财[服务](https://baike.baidu.com/item/%E6%9C%8D%E5%8A%A1/85523)。我们一般所说的“银行[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)”，其实是指其中的[综合](https://baike.baidu.com/item/%E7%BB%BC%E5%90%88)理财[服务](https://baike.baidu.com/item/%E6%9C%8D%E5%8A%A1/85523)。
 
@@ -577,7 +577,7 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 [![img](https://camo.githubusercontent.com/8cd29f5108802f6e0941da91f4affbdb3918c02b/687474703a2f2f356230393838653539353232352e63646e2e736f687563732e636f6d2f696d616765732f32303139303130312f34346136376365363231613234336538613963353434353331613065313935312e706e67)](https://camo.githubusercontent.com/8cd29f5108802f6e0941da91f4affbdb3918c02b/687474703a2f2f356230393838653539353232352e63646e2e736f687563732e636f6d2f696d616765732f32303139303130312f34346136376365363231613234336538613963353434353331613065313935312e706e67)
 
-2018年末，值得注意的是债券型基金规模首次超越混合型基金规模，规模较年初增长57%，数量净增239只，规模达24501亿，说明机构特别是养老金/委外资金扎堆债基，还有就是部分短期理财基金转型为中短债基金。另外货币基金规模继续攀升，占据全市场规模的62%，这一比例远高于美国共同基金市场的13%，全球市场的2%。（是否有美国的基金结构进行比对？）
+2018年末，值得注意的是债券型基金规模首次超越混合型基金规模，规模较年初增长57%，数量净增239只，规模达24501亿，说明机构特别是养老金/委外资金扎堆债基，还有就是部分短期理财基金转型为中短债基金。另外货币基金规模继续攀升，占据全市场规模的62%。
 
 [![img](https://camo.githubusercontent.com/75455f566cfd7a5f21e9f8b88357d232e7d09520/687474703a2f2f356230393838653539353232352e63646e2e736f687563732e636f6d2f696d616765732f32303139303130312f63666461653337376138626134613836623164386565633261323238393237302e706e67)](https://camo.githubusercontent.com/75455f566cfd7a5f21e9f8b88357d232e7d09520/687474703a2f2f356230393838653539353232352e63646e2e736f687563732e636f6d2f696d616765732f32303139303130312f63666461653337376138626134613836623164386565633261323238393237302e706e67)
 
