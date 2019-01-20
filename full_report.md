@@ -39,13 +39,51 @@
 
 ## 1. 我们为什么要理财投资
 
-### 1.1 世界在变富
+### 1.1 変富的世界
+
+从[中国富人报告](https://www.sifma.org/resources/general/new-visionaries-and-the-chinese-century-billionaires-insights-2018/)中得到全球富人增长率。
+
+![fig7_rich](https://github.com/bchen4/images/raw/master/omc_ia/chinese_billion_fig_7.png)
+
+报告中指出整个2017年，全球亿万富翁（资产十亿美金）的总财产从1.4万亿美元增加到8.9万亿。（[福布斯2018富豪榜](https://www.forbes.com/billionaires/#76e74ee251c7)的数据是9.1万亿）。2017年新晋332名亿万富翁中，199白手起家，其中89位来自中国。
 
 
 
+**MSCI ACWI **
+
+> MSCI国家指数”由[摩根士丹利](https://baike.baidu.com/item/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9)资本国际公司（MSCI）收集每个上市公司的[股价](https://baike.baidu.com/item/%E8%82%A1%E4%BB%B7/9079155)、发行量、[大股东](https://baike.baidu.com/item/%E5%A4%A7%E8%82%A1%E4%B8%9C)持有量、[自由流通量](https://baike.baidu.com/item/%E8%87%AA%E7%94%B1%E6%B5%81%E9%80%9A%E9%87%8F/549166)、每月交易量等数据，并将上市公司按全球行业分类标准(GICS)进行分类，在每一个行业以一定的标准选取60%[市值](https://baike.baidu.com/item/%E5%B8%82%E5%80%BC/3694784)的股票作为[成份股](https://baike.baidu.com/item/%E6%88%90%E4%BB%BD%E8%82%A1/9734053)，选取标准包括规模（市值）、长期短期交易量、[交叉持股](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E6%8C%81%E8%82%A1/6881459)情况和[流通股](https://baike.baidu.com/item/%E6%B5%81%E9%80%9A%E8%82%A1/8333337)数量。由于[摩根士丹利](https://baike.baidu.com/item/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9)资本国际公司先划分[行业](https://baike.baidu.com/item/%E8%A1%8C%E4%B8%9A/2063999)，再从行业中选择股票，这样保证了指数组合中各行业都有相对固定比例的股票，使得指数具有较强的行业代表性。
+
+解释来自[百度百科MSCI世界指数](https://baike.baidu.com/item/MSCI%E5%9B%BD%E5%AE%B6%E6%8C%87%E6%95%B0), 交叉验证：[维基百科MSCI world](https://en.wikipedia.org/wiki/MSCI_World)
 
 
-### 1.2 我们在变老
+
+### 1.2 変富的中国
+
+跟2017年相比，中国2018年的GDP增加了4.6% （国家统计局数据交叉验证），成人财富也增加了4%。高于世界水平。
+
+![fig9](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_9.png)
+
+
+
+而中国人成人财富中位数，从2017年的2170美元以平均年化率7%的增加率一路增加到2018年的16330 美元。
+
+![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_13.png)
+
+
+
+目前在全球范围内，中国人的财富分布有如下特征：
+
+- 70-90 百分位数中，中国占了一半。 总体来说大部分中国人在世界范围内属于上中产。（北美和欧洲大部分人口都挤在top10）
+
+- 全球最富的10%的人口中，中国人占了18%， 仅次于美国人（20%）
+
+  
+
+![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_12.png)
+
+
+
+### 1.3 变老的我们
 
 
 
@@ -55,26 +93,7 @@
 
 ### 2.1 什么是投资
 
-#### 关键词列表
-
-| 层级 | 英文                                                         | 中文                                                         |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 一级 | fortune, wealth, invest/investment，finance                  | 财富、投资、金融                                             |
-| 二级 | Investing, Investor，Financial Planning, Wealth Management   | 投资者、财富管理、理财产品、投机、赌博                       |
-| 三级 | financial analysis, investment strategy, bond/fixed income,mutual fund,stocks, ETFs, Real Estate, Alternative investment, Commidities, Asset allocation, annuities, brokerages, options, sustainable investing... | 投资策略、债券/固定收益，公募基金(共同基金)，股票，ETFs，房地产，大宗商品，资产配置，期权，经纪，替代投资，年金/社保， 可持续投资... |
-
-来源: Investopedia, wiki, MBA百科/mbalib, 百度百科
-
-
-
-通过对比中英文关键词的维基定义，我发现:
-
-### 理财产品/理财 ≠ 财富管理/财务管理/wealth management
-
-- 我们常说的“理财”实际上来源于国内银行的“理财产品”、“理财服务”。是从金融机构的产品角度出发的，它实际上应该参考了国外“wealth management”的理念。实际上，中国大多数银行还达不到“wealth management”的服务或水平，他们的理财就是不停推出理财产品，给大家购买。我们经常都在买理财产品，所以就习惯性的把“理财”挂在嘴边，等同于财富管理/财务管理了。
-- 国外和理财接近的概念是“wealth management”，和国内的“理财”不同的是，它是从个人出发，考虑个人/家庭如何管理和配置自己的财富, 它按照个人/家庭的资产净值规模分类，来提供有针对性的财富管理服务和规划
-
-### 投资＝investment+investing
+**投资＝investment+investing**
 
 - 英文的投资有名词（investment）和动词（investing）之分，前者是投资的标的，后者是投资的行为和策略。中文的“投资”，则涵盖了两者。
 
@@ -98,9 +117,72 @@ What is Investing（Investopedia）
 
 
 
+**关键词列表**
+
+| 层级 | 英文                                                         | 中文                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 一级 | fortune, wealth, invest/investment，finance                  | 财富、投资、金融                                             |
+| 二级 | Investing, Investor，Financial Planning, Wealth Management   | 投资者、财富管理、理财产品、投机、赌博                       |
+| 三级 | financial analysis, investment strategy, bond/fixed income,mutual fund,stocks, ETFs, Real Estate, Alternative investment, Commidities, Asset allocation, annuities, brokerages, options, sustainable investing... | 投资策略、债券/固定收益，公募基金(共同基金)，股票，ETFs，房地产，大宗商品，资产配置，期权，经纪，替代投资，年金/社保， 可持续投资... |
+
+来源: Investopedia, wiki, MBA百科/mbalib, 百度百科
+
+
+
 ## 2.2 常见投资手段
 
-### 公募基金 ≈ Mutual Fund
+### 2.2.1 银行理财
+
+通过对比中英文关键词的维基定义之后发现:
+
+**理财产品/理财 ≠ 财富管理/财务管理/wealth management**
+
+- 我们常说的“理财”实际上来源于国内银行的“理财产品”、“理财服务”。是从金融机构的产品角度出发的，它实际上应该参考了国外“wealth management”的理念。实际上，中国大多数银行还达不到“wealth management”的服务或水平，他们的理财就是不停推出理财产品，给大家购买。我们经常都在买理财产品，所以就习惯性的把“理财”挂在嘴边，等同于财富管理/财务管理了。
+- 国外和理财接近的概念是“wealth management”，和国内的“理财”不同的是，它是从个人出发，考虑个人/家庭如何管理和配置自己的财富, 它按照个人/家庭的资产净值规模分类，来提供有针对性的财富管理服务和规划
+
+可以使用百度百科的定义来解释中国特有的 [银行理财产品](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)
+
+> [银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C)理财产品是[商业银行](https://baike.baidu.com/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C/365199)在对潜在[目标客户](https://baike.baidu.com/item/%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7)群分析研究的基础上，[针对](https://baike.baidu.com/item/%E9%92%88%E5%AF%B9)特定目标客户群开发设计并[销售](https://baike.baidu.com/item/%E9%94%80%E5%94%AE/239410)的资金投资和管理计划。在[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81/9711316)这种投资方式中，[银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C/392719)只是接受客户的授权管理资金，投资收益与风险由客户或客户与银行按照约定方式双方承担。
+
+
+
+### 2.2.2 信托
+
+[百度百科定义](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98)
+
+> 信托（Trust）是一种[理财](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2/550678)方式，是一种特殊的财产管理制度和法律行为，同时又是一种[金融](https://baike.baidu.com/item/%E9%87%91%E8%9E%8D/860)制度。信托与[银行](https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C/392719)、[保险](https://baike.baidu.com/item/%E4%BF%9D%E9%99%A9/262)、[证券](https://baike.baidu.com/item/%E8%AF%81%E5%88%B8/267)一起构成了现代金融体系。信托业务是一种以信用为基础的[法律](https://baike.baidu.com/item/%E6%B3%95%E5%BE%8B/84813)行为，一般涉及到三方面当事人，即投入信用的委托人，受信于人的受托人，以及受益于人的受益人。
+
+
+
+> 信托类[理财产品](https://baike.baidu.com/item/%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81)是指由银行发行的人民币理财产品所募集的全部资金，投资于指定[信托公司](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98%E5%85%AC%E5%8F%B8)作为受托人的专项[信托计划](https://baike.baidu.com/item/%E4%BF%A1%E6%89%98%E8%AE%A1%E5%88%92)。目前，各家银行推出的信托类理财产品主要是银行与信托公司合作，将[募集资金](https://baike.baidu.com/item/%E5%8B%9F%E9%9B%86%E8%B5%84%E9%87%91)投资于信托公司推出的信托理财计划。信托类理财产品的收益可以是固定的，也可以是浮动的。
+
+
+
+**信托当事人**
+
+信托关系中规定信托当事人分为三方：
+
+* 委托人（具有完全民事行为能力的自然人、法人或者依法成立的其它组织）；
+
+* 受托人（具有完全民事行为能力的自然人、法人）；
+
+* 受益人（指在信托中享有信托受益权的人，受益人可以是自然人、法人或者依法成立的其它组织）。受益人和委托人可以是同一人，也可以不是同一人；受托人可以是受益人，但不得是同一信托的唯一受益人。上述三者关系既是一种经济关系，又是一种法律关系。
+
+
+
+**信托的特点**
+
+1. 投资灵活，收益较高 。信托公司是目前唯一准许同时在资本市场、货币市场和实业领域投资的金融机构。信托产品投资灵活，投资领域多元化，所以在一定程度上有效降低投资风险，实现投资人收益最大化。期限灵活，收益高于存款和银行理财产品。 期限从1天期限，到3年期不等，收益率相比较银行理财产品高1%~3%左右，优势非常明显。
+
+2. 风险可控，安全保障 。信托产品财产在法律上独立，不受信托公司破产清算影响；信托财产的所有权、管理权、受益权相分离，从制度上提供了安全保障。 从法律层面上保障了投资者的资产安全。
+
+3. 信托投资更加适合高端人群的资产配置。信托产品的认购起点是100万元，对投资者认购也有要求。目前国内信托产品受到高净值客户的青睐，并且为高净值客户创造了年化8%~13%的年化收益，成为高净值客户资产配置的首选产品类型，安全稳定。
+
+
+
+### 2.2.3 基金
+
+#### 公募基金 ≈ Mutual Fund
 
 - 我们本次项目研究的对象"基金"，应准确的定义为：Mutual Fund, 公募基金/共同基金。它在我们本次研究中，对个人的财富管理需要来说，关键词层级关系是这样的**财富管理>投资>金融投资>共同基金**；股票、金融市场，则是和共同基金行业相关的其他关键词，**金融市场>股票>股票型共同基金**。而我们常听到的**公募基金**，是从发行方式来区分相对于"私募基金"而言的。从实际含义上说，公募基金是指公墓的证券投资基金，类似于“股票型共同基金”，但在我国，大家都更习惯用"公募基金"，而不是"共同基金"。
 
@@ -140,65 +222,117 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 
 
+#### 共同基金的类别
 
+**按基金组织形式区分**
+按证券投资基金组织形式可分为：契约型（Contract Type）和公司型（Company Type）。
+
+* 契约型基金，也称信托型基金，它是依据信托契约通过发行受益凭证而组建的投资基金。该类基金一般由基金经理、基金保管人及投资者三方当事人订立信托契约。基金经理可以作为基金的发起人，通过发行受益凭证将资金筹集起来组成信托财产，并依据信托契约，由基金托管人负责保管信托财产，具体办理证券、现金管理及有关的代理业务等；投资者也是受益凭证的持有人，通过购买受益凭证，参与基金投资，享有投资受益。基金发行的受益凭证表明投资者对投资基金所享有的权益。
+
+* 公司型基金依公司法成立，通过发行基金股份将集中起来的资金投资于各种证券。公司型基金在组织形式上与股份有限公司类似，基金公司资产为投资者（股东）所有，由股东选举董事会，由董事会先聘基金经理，基金经理负责管理基金业务。公司型基金的组织结构主要有以下几个方面当事人：基金股东、基金公司、投资顾问或基金经理、基金保管人、基金转换代理人、基金主承销商。
+
+**按交易方式区分**
+共同基金按交易方式可分为开放式基金、封闭式基金及股票交易所交易基金。
+
+* 开放式基金指投资人直接向基金公司或其代理机构购买及卖出基金，以基金净值作为买入卖出价格，开放式基金的规模会随着投资人的买入卖出而增加。
+
+* 封闭式基金指一个基金在一开始募集完成之后，就不再由投资人直接或间接向基金公司购买，而是在股票市场上向其他拥有基金的购买人购买，因此基金的规模不会因为买卖而增加或减少，此外，由于市场上的预期涨跌心理，实际买卖的价格可能会与基金净值有一段差距。（此即折价或溢价）
+
+* 股票交易所交易基金又称作ETF，其大致上原理与封闭式基金类似，但增加了以基金与实物可交换（股票基金的话即股票）的机制，这一方面使得折溢价（价格与净值的差异）不会像封闭式基金那么大，另一方面资产变动虽不如开放式基金那么大，但会因交换机制而有所变化。
+
+**按操作方式区分**
+按操作方式一般可分为主动型基金及指数基金。
+
+* 主动型基金即操作策略，买进卖出等都由基金经理人或团队来作决定，希望能获得最好的绩效，市面上多数的基金属于此类。
+
+* 指数型基金，基金经理人运用追纵技术，使得基金的表现能与相对应股价指数相近。一般而言这类基金的收费较便宜，因此实际上绩效并不输给主动型基金。目前市面上大多数ETF都属此类型（2008年在美国开始出现少数主动型ETF），但也有许多开放型的指数基金。
+
+**按资产类别区分**
+依照资产类别，共同基金大致可分为：
+
+* 股票型基金：又可依投资地域、产业再细分。
+* 债券型基金：又可依债券类型、地域再细分。
+* 货币型基金：可依货币币种再细分。
+* 平衡型基金：可同时持有多种类别资产。
+* 地产基金、不动产投资信托基金
+* 原物料基金
+* 避险基金（Hedge Fund）：除持有一般资产之外，经理人可运用更多的金融工具或手法，如期货、选择权，放空股票等手法来操作基金。
+
+### 2.2.4 股票
+
+定义（mbalib）
+
+> 股票是股份证书的简称，是[股份公司](https://wiki.mbalib.com/wiki/%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8)为筹集资金而发行给股东作为持股凭证并借以取得[股息](https://wiki.mbalib.com/wiki/%E8%82%A1%E6%81%AF)和[红利](https://wiki.mbalib.com/wiki/%E7%BA%A2%E5%88%A9)的一种[有价证券](https://wiki.mbalib.com/wiki/%E6%9C%89%E4%BB%B7%E8%AF%81%E5%88%B8)。每股股票都代表股东对企业拥有一个基本单位的[所有权](https://wiki.mbalib.com/wiki/%E6%89%80%E6%9C%89%E6%9D%83)。这种所有权是一种综合权利，如参加[股东大会](https://wiki.mbalib.com/wiki/%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A)、投票表决、参与公司的重大决策、收取股息或分享红利等。同一类别的每一份股票所代表的公司所有权是相等的。每个股东所拥有的公司所有权份额的大小，取决于其持有的股票数量占公司[总股本](https://wiki.mbalib.com/wiki/%E6%80%BB%E8%82%A1%E6%9C%AC)的比重。股票是股份公司[资本](https://wiki.mbalib.com/wiki/%E8%B5%84%E6%9C%AC)的构成部分，可以转让、买卖或作价[抵押](https://wiki.mbalib.com/wiki/%E6%8A%B5%E6%8A%BC)，是[资本市场](https://wiki.mbalib.com/wiki/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA)的主要[长期信用工具](https://wiki.mbalib.com/wiki/%E9%95%BF%E6%9C%9F%E4%BF%A1%E7%94%A8%E5%B7%A5%E5%85%B7)，但不能要求公司返还其出资。股东与公司之间的关系不是[债权](https://wiki.mbalib.com/wiki/%E5%80%BA%E6%9D%83)[债务](https://wiki.mbalib.com/wiki/%E5%80%BA%E5%8A%A1)关系。股东是公司的所有者，以其出资份额为限对公司负有限责任，承担风险，分享[收益](https://wiki.mbalib.com/wiki/%E6%94%B6%E7%9B%8A)
+
+
+
+**基本特征**
+
+1. 不可偿还性。股票是一种无偿还期限的[有价证券](https://wiki.mbalib.com/wiki/%E6%9C%89%E4%BB%B7%E8%AF%81%E5%88%B8)，投资者认购了股票后，就不能再要求[退股](https://wiki.mbalib.com/wiki/%E9%80%80%E8%82%A1)，只能到[二级市场](https://wiki.mbalib.com/wiki/%E4%BA%8C%E7%BA%A7%E5%B8%82%E5%9C%BA)卖给第三者。股票的转让只意味着公司股东的改变，并不减少[公司资本](https://wiki.mbalib.com/wiki/%E5%85%AC%E5%8F%B8%E8%B5%84%E6%9C%AC)。从期限上看，只要公司存在，它所发行的股票就存在，股票的期限等于公司存续的期限。
+
+2. 参与性。股东有权出席[股东大会](https://wiki.mbalib.com/wiki/%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A)，选举公司[董事会](https://wiki.mbalib.com/wiki/%E8%91%A3%E4%BA%8B%E4%BC%9A)，参与公司重大决策。股票持有者的投资意志和享有的经济利益，通常是通过行使股东参与权来实现的。
+
+3. [收益性](https://wiki.mbalib.com/wiki/%E6%94%B6%E7%9B%8A%E6%80%A7)。股东凭其持有的股票，有权从公司领取股息或红利，获取投资的收益。股息或红利的大小，主要取决于公司的[盈利](https://wiki.mbalib.com/wiki/%E7%9B%88%E5%88%A9)水平和公司的盈利分配政策。
+4. 流通性。股票的流通性是指股票在不同投资者之间的可交易性。流通性通常以可流通的股票数量、股票[成交量](https://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F)以及股价对交易量的敏感程度来衡量。可[流通股](https://wiki.mbalib.com/wiki/%E6%B5%81%E9%80%9A%E8%82%A1)数越多，[成交量](https://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F)越大，价格对成交量越不敏感（价格不会随着[成交量](https://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F)一同变化），股票的流通性就越好，反之就越差。
+
+5. 价格波动性和风险性。股票在[交易市场](https://wiki.mbalib.com/wiki/%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA)上作为交易对象，同商品一样，有自己的市场行情和市场价格。由于股票价格要受到诸如公司[经营状况](https://wiki.mbalib.com/wiki/%E7%BB%8F%E8%90%A5%E7%8A%B6%E5%86%B5)、[供求关系](https://wiki.mbalib.com/wiki/%E4%BE%9B%E6%B1%82%E5%85%B3%E7%B3%BB)、[银行](https://wiki.mbalib.com/wiki/%E9%93%B6%E8%A1%8C)利率、大众心理等多种因素的影响，其波动有很大的不确定性。正是这种不确定性，有可能使股票投资者遭受损失。价格波动的不确定性越大，[投资风险](https://wiki.mbalib.com/wiki/%E6%8A%95%E8%B5%84%E9%A3%8E%E9%99%A9)也越大。因此，股票是一种高风险的[金融](https://wiki.mbalib.com/wiki/%E9%87%91%E8%9E%8D)[产品](https://wiki.mbalib.com/wiki/%E4%BA%A7%E5%93%81)。
+
+   
 
 ## 2.3 复利
 
+大家都知道这么一个故事：
+
+印度有个古老故事，国王与象棋国手下棋输了，国手要求在第一个棋格中放上一粒麦子，第二格放上两粒，第三格放上四粒，即按[复利增长](https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9%E5%A2%9E%E9%95%BF)的方式放满整个棋格。国王以为这个棋手可以得到一袋麦子，结果却是全印度的麦子都不足以支付。
+
+连股神巴菲特都说：“全世界最厉害的力量叫做想象力，但最恐怖的力量叫做复利，复利可以让你的钱越变越大，大到你无法想象的地步。”
+
+**追逐复利的力量，正是资本积累的动力。**
 
 
 
+**复利的计算方式：**
+
+> 复利计算的特点是：把上期未的[本利和](https://wiki.mbalib.com/wiki/%E6%9C%AC%E5%88%A9%E5%92%8C)作为下一期的本金，在计算时每一期本金的数额是不同的。复利的计算公式是：*S* = *P*(*I* + *i*)*n*，其中以符号I代表利息，P代表本金，n代表期数，i代表[利率](https://wiki.mbalib.com/wiki/%E5%88%A9%E7%8E%87)，S代表本利和。
 
 
+
+**复利终值**
+
+> 复利终值是指本金在约定的期限内获得利息后，将利息加入本金再计利息，逐期滚算到约定期末的本金之和。
+
+![zhongzhi](https://wiki.mbalib.com/w/images/math/2/1/0/2107932dc870d6d8972207879d15ac60.png)
+
+其中：（1+i）n　　被称为[复利终值系数](https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9%E7%BB%88%E5%80%BC%E7%B3%BB%E6%95%B0)，符号用![(\frac{S}{p},i,n)](https://wiki.mbalib.com/w/images/math/0/c/c/0cc65b76234288bee64d5d153a8557f2.png)表示。
+
+
+
+**复利现值**
+
+> 复利现值是指在计算复利的情况下，要达到未来某一特定的资金金额，现在必须投入的本金。
+
+![xianzhi](https://wiki.mbalib.com/w/images/math/f/7/8/f78aa7412f90818a35df8b0ea1320ece.png)
+
+其中：(1 + *i*) − *n*被称为[复利现值系数](https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9%E7%8E%B0%E5%80%BC%E7%B3%BB%E6%95%B0)，符号用![(\frac{p}{s},i,n)](https://wiki.mbalib.com/w/images/math/d/3/7/d376b900ebef8af6eff0b53839c6717a.png)表示
+
+
+
+**72法则**
+
+> 想要知道资产翻一倍要多少时间或翻一倍要多少的回报率，只需要将72除以投资回报率或时间就行。
+
+通过这一法则：
+
+1. 在给出某一回报率时，可以求出翻一倍所要的投资时间。比如，如果投资回报率为6%，想要资产翻倍所用的时间为12年（72/6=12）
+2. 给出某一投资期限，可以求出翻一倍所要的投资回报率。比如，想要资产在8年内翻倍，要求的投资回报率为9%（72/8=9）。
+
+“72法则”只是一个经验法则，如果投资期限为1年的话，这个法则是不适用的，因为，要想投资在1年内翻倍，投资回报率必须为100%，而不是72%，投资期限乘以回报率的乘积为100（1X100=100)，如果回报率为72%根本不能翻一倍。
 
 
 
 ## 3. 富人俱乐部
 
-### 3.1 変富的世界
-
-从[中国富人报告](https://www.sifma.org/resources/general/new-visionaries-and-the-chinese-century-billionaires-insights-2018/)中得到全球富人增长率。
-
-![fig7_rich](https://github.com/bchen4/images/raw/master/omc_ia/chinese_billion_fig_7.png)
-
-报告中指出整个2017年，全球亿万富翁（资产十亿美金）的总财产从1.4万亿美元增加到8.9万亿。（[福布斯2018富豪榜](https://www.forbes.com/billionaires/#76e74ee251c7)的数据是9.1万亿）。2017年新晋332名亿万富翁中，199白手起家，其中89位来自中国。
-
-
-
-**MSCI ACWI **
-
-> MSCI国家指数”由[摩根士丹利](https://baike.baidu.com/item/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9)资本国际公司（MSCI）收集每个上市公司的[股价](https://baike.baidu.com/item/%E8%82%A1%E4%BB%B7/9079155)、发行量、[大股东](https://baike.baidu.com/item/%E5%A4%A7%E8%82%A1%E4%B8%9C)持有量、[自由流通量](https://baike.baidu.com/item/%E8%87%AA%E7%94%B1%E6%B5%81%E9%80%9A%E9%87%8F/549166)、每月交易量等数据，并将上市公司按全球行业分类标准(GICS)进行分类，在每一个行业以一定的标准选取60%[市值](https://baike.baidu.com/item/%E5%B8%82%E5%80%BC/3694784)的股票作为[成份股](https://baike.baidu.com/item/%E6%88%90%E4%BB%BD%E8%82%A1/9734053)，选取标准包括规模（市值）、长期短期交易量、[交叉持股](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E6%8C%81%E8%82%A1/6881459)情况和[流通股](https://baike.baidu.com/item/%E6%B5%81%E9%80%9A%E8%82%A1/8333337)数量。由于[摩根士丹利](https://baike.baidu.com/item/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9)资本国际公司先划分[行业](https://baike.baidu.com/item/%E8%A1%8C%E4%B8%9A/2063999)，再从行业中选择股票，这样保证了指数组合中各行业都有相对固定比例的股票，使得指数具有较强的行业代表性。
-
-解释来自[百度百科MSCI世界指数](https://baike.baidu.com/item/MSCI%E5%9B%BD%E5%AE%B6%E6%8C%87%E6%95%B0), 交叉验证：[维基百科MSCI world](https://en.wikipedia.org/wiki/MSCI_World)
-
-
-
-### 3.2 変富的中国
-
-跟2017年相比，中国2018年的GDP增加了4.6% （国家统计局数据交叉验证），成人财富也增加了4%。高于世界水平。
-
-![fig9](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_9.png)
-
-
-
-而中国人成人财富中位数，从2017年的2170美元以平均年化率7%的增加率一路增加到2018年的16330 美元。
-
-![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_13.png)
-
-
-
-目前在全球范围内，中国人的财富分布有如下特征：
-
-- 70-90 百分位数中，中国占了一半。 总体来说大部分中国人在世界范围内属于上中产。（北美和欧洲大部分人口都挤在top10）
-
-- 全球最富的10%的人口中，中国人占了18%， 仅次于美国人（20%）
-
-  
-
-![fig12](https://github.com/bchen4/images/raw/master/omc_ia/sussie_global_wealth_fig_12.png)
-
-
-
-### 3.3 富人靠什么发家致富
+### 3.1 富人靠什么发家致富
 
 由[Global family office report 2018](https://www.ubs.com/global/en/wealth-management/uhnw/global-family-office/global-family-office-report-2018.html)中可以找到他们的客户所从事的行业。而family office简单粗暴的说就是为首富们管理钱财的公司。
 
@@ -222,7 +356,7 @@ Mutual fund units, or shares, can typically be purchased or redeemed as needed a
 
 
 
-### 3.4 富人怎么投资
+### 3.2 富人怎么投资
 
 还是来自家庭银行的报告。他们的投资是很均衡的，有至少40%的资产是投资在中低风险的组合中，包括债券，现金和股市。其他的资产，会按照个人喜好，分配到低风险和高风险中。
 
@@ -1079,7 +1213,53 @@ PCAOB注册为公司，不以营利为目的，受美国证监会监督，经费
 
 
 
-## 8 结论
+## 8 大牛投资家
+
+wiki>投资者>投资者列表，列出了著名的投资家，其中国外几乎全部直接和基金相关。
+
+投资家列表
+
+- 巴菲特（1954 to 1956 基金公司的股票分析师 at Graham-Newman Corp. as a securities analyst，伯克夏•哈撒韦公司主席）
+- 索罗斯（1970年成立索罗斯基金,1973年成立量子基金，该基金是一只对冲基金）
+- 罗杰斯(1973年成立量子基金 共同创始人)
+- 詹姆斯·西蒙斯 (2005年，西蒙斯成为全球收入最高的对冲基金经理，净赚15亿美元，差不多是索罗斯的两倍；从1988年开始，他所掌管的大奖章基金年均回报率高达34％，15年来资产从未减少过,美国数学家、投资家和慈善家。是世界级的数学家，也是最伟大的对冲基金经理之一。)
+- 本杰明·格雷厄姆(被誉为证券分析之父、“华尔街院长”, 巴菲特的投资老师，1923年年初，格雷厄姆离开了纽伯格一亨德森一劳伯公司，决定自立门户。他成立了格兰赫私人基金)
+- 查理·芒格（伯克夏•哈撒韦公司的副主席）
+- 彼得·林奇（1977年接管并扩展麦哲伦基金之后的13年，使麦哲伦成为有史以来最庞大的共同基金，使其资产由2000万美元，增长到84亿美元，100万人共同持有）
+- 菲利普·费雪（Philip A. Fisher，1907-2004）：现代投资理论的开路先锋之一，成长股价值投资策略之父，巴菲特也受其投资理念的影响）
+- 郑铁如
+- 李嘉诚
+- 李忠瀚
+
+<https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B3%87%E8%80%85>
+
+##### investopedia 最伟大的投资人
+
+在investopedia 选出的21位最伟大的投资人中，有16位都创立了基金，其中有9位是共同基金经理：
+
+- John (Jack) Bogle （共同基金-指数基金之父，创立先锋基金，美国最大基金公司之一）
+- Warren Buffett（投资控股公司）
+- David Einhorn （对冲基金）
+- Stanley Druckenmiller（对冲基金）
+- David Dreman（共同基金）
+- Philip Fisher（基金）
+- Benjamin Graham（基金）
+- William H. Gross（共同基金）
+- Carl Icahn（投资控股公司）
+- Jesse L. Livermore（股票交易）
+- Peter Lynch（共同基金）
+- Bill Miller（共同基金）
+- John Neff（共同基金）
+- William J. O'Neil（股票交易，量化交易先行者）
+- Julian Robertson（对冲基金）
+- Thomas Rowe Price, Jr.（共同基金，美国最大基金公司之一）
+- James D. Slater（个人投资者）
+- George Soros（对冲基金）
+- Michael Steinhardt（对冲基金）
+- John Templeton（共同基金）
+- Ralph Wanger（共同基金）
+
+
 
 
 
